@@ -1,0 +1,985 @@
+﻿Patient_ID,Age,Gender,Condition,Procedure,Cost,Length_of_Stay,Readmission,Outcome,Satisfaction,Age_Group,Cost_Category,Stay_Category
+10,25,Male,Allergic Reaction,Epinephrine Injection,100,1,No,Recovered,5,19-35,Low,Short Stay
+3,32,Female,Fractured Arm,X-Ray and Splint,500,1,No,Recovered,5,19-35,Low,Short Stay
+25,28,Male,Allergic Reaction,Epinephrine Injection,100,2,No,Recovered,5,19-35,Low,Short Stay
+18,35,Female,Fractured Arm,X-Ray and Splint,500,2,Yes,Recovered,5,19-35,Low,Short Stay
+11,48,Female,Respiratory Infection,Antibiotics and Rest,800,2,No,Stable,4,36-50,Low,Short Stay
+6,68,Male,Hypertension,Medication and Counseling,1000,2,No,Stable,4,66+,Low,Short Stay
+40,25,Male,Allergic Reaction,Epinephrine Injection,100,3,No,Recovered,5,19-35,Low,Short Stay
+13,30,Female,Childbirth,Delivery and Postnatal Care,12000,3,No,Recovered,4,19-35,Medium,Short Stay
+33,30,Female,Fractured Arm,X-Ray and Splint,500,3,No,Recovered,5,19-35,Low,Short Stay
+26,52,Female,Respiratory Infection,Antibiotics and Rest,800,3,No,Stable,4,51-65,Low,Short Stay
+2,60,Male,Diabetes,Insulin Therapy,2000,3,Yes,Stable,3,51-65,Low,Short Stay
+21,72,Male,Hypertension,Medication and Counseling,1000,3,No,Stable,4,66+,Low,Short Stay
+55,28,Male,Allergic Reaction,Epinephrine Injection,100,4,No,Recovered,5,19-35,Low,Short Stay
+28,35,Female,Childbirth,Delivery and Postnatal Care,12000,4,No,Recovered,4,19-35,Medium,Medium Stay
+48,35,Female,Fractured Arm,X-Ray and Splint,500,4,Yes,Recovered,5,19-35,Low,Medium Stay
+14,52,Male,Kidney Stones,Lithotripsy,6000,4,No,Recovered,3,51-65,Medium,Medium Stay
+41,52,Female,Respiratory Infection,Antibiotics and Rest,800,4,No,Stable,4,51-65,Low,Medium Stay
+7,55,Female,Appendicitis,Appendectomy,8000,4,No,Recovered,3,51-65,Medium,Medium Stay
+17,62,Male,Diabetes,Insulin Therapy,2000,4,No,Stable,4,51-65,Low,Medium Stay
+36,68,Male,Hypertension,Medication and Counseling,1000,4,No,Stable,4,66+,Low,Medium Stay
+70,25,Male,Allergic Reaction,Epinephrine Injection,100,5,No,Recovered,5,19-35,Low,Medium Stay
+63,30,Female,Fractured Arm,X-Ray and Splint,500,5,No,Recovered,5,19-35,Low,Medium Stay
+43,32,Female,Childbirth,Delivery and Postnatal Care,12000,5,No,Recovered,4,19-35,Medium,Medium Stay
+1,45,Female,Heart Disease,Angioplasty,15000,5,No,Recovered,4,36-50,High,Medium Stay
+29,50,Male,Kidney Stones,Lithotripsy,6000,5,No,Recovered,3,36-50,Medium,Medium Stay
+56,52,Female,Respiratory Infection,Antibiotics and Rest,800,5,No,Stable,4,51-65,Low,Medium Stay
+15,58,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,5,No,Stable,4,51-65,Low,Medium Stay
+22,60,Female,Appendicitis,Appendectomy,8000,5,Yes,Recovered,3,51-65,Medium,Medium Stay
+32,65,Male,Diabetes,Insulin Therapy,2000,5,No,Stable,3,51-65,Low,Medium Stay
+51,72,Male,Hypertension,Medication and Counseling,1000,5,No,Stable,4,66+,Low,Medium Stay
+85,28,Male,Allergic Reaction,Epinephrine Injection,100,6,No,Recovered,5,19-35,Low,Medium Stay
+58,35,Female,Childbirth,Delivery and Postnatal Care,12000,6,No,Recovered,4,19-35,Medium,Medium Stay
+78,35,Female,Fractured Arm,X-Ray and Splint,500,6,Yes,Recovered,5,19-35,Low,Medium Stay
+8,40,Male,Fractured Leg,Cast and Physical Therapy,3000,6,No,Recovered,4,36-50,Low,Medium Stay
+37,45,Female,Appendicitis,Appendectomy,8000,6,No,Recovered,3,36-50,Medium,Medium Stay
+71,52,Female,Respiratory Infection,Antibiotics and Rest,800,6,No,Stable,4,51-65,Low,Medium Stay
+16,55,Female,Heart Disease,Angioplasty,15000,6,Yes,Recovered,3,51-65,High,Medium Stay
+44,55,Male,Kidney Stones,Lithotripsy,6000,6,No,Recovered,3,51-65,Medium,Medium Stay
+30,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,6,No,Stable,4,51-65,Low,Medium Stay
+47,62,Male,Diabetes,Insulin Therapy,2000,6,No,Stable,4,51-65,Low,Medium Stay
+66,68,Male,Hypertension,Medication and Counseling,1000,6,No,Stable,4,66+,Low,Medium Stay
+100,25,Male,Allergic Reaction,Epinephrine Injection,100,7,No,Recovered,5,19-35,Low,Medium Stay
+93,30,Female,Fractured Arm,X-Ray and Splint,500,7,No,Recovered,5,19-35,Low,Medium Stay
+73,32,Female,Childbirth,Delivery and Postnatal Care,12000,7,No,Recovered,4,19-35,Medium,Medium Stay
+23,45,Male,Fractured Leg,Cast and Physical Therapy,3000,7,No,Recovered,4,36-50,Low,Medium Stay
+31,48,Female,Heart Disease,Angioplasty,15000,7,Yes,Recovered,4,36-50,High,Medium Stay
+59,50,Male,Kidney Stones,Lithotripsy,6000,7,No,Recovered,3,36-50,Medium,Medium Stay
+86,52,Female,Respiratory Infection,Antibiotics and Rest,800,7,No,Stable,4,51-65,Low,Medium Stay
+52,60,Female,Appendicitis,Appendectomy,8000,7,Yes,Recovered,3,51-65,Medium,Medium Stay
+45,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,7,No,Stable,4,51-65,Low,Medium Stay
+62,65,Male,Diabetes,Insulin Therapy,2000,7,No,Stable,3,51-65,Low,Medium Stay
+81,72,Male,Hypertension,Medication and Counseling,1000,7,No,Stable,4,66+,Low,Medium Stay
+4,75,Male,Stroke,CT Scan and Medication,10000,7,Yes,Stable,2,66+,Medium,Medium Stay
+115,28,Male,Allergic Reaction,Epinephrine Injection,100,8,No,Recovered,5,19-35,Low,Medium Stay
+88,35,Female,Childbirth,Delivery and Postnatal Care,12000,8,No,Recovered,4,19-35,Medium,Long Stay
+108,35,Female,Fractured Arm,X-Ray and Splint,500,8,Yes,Recovered,5,19-35,Low,Long Stay
+38,40,Male,Fractured Leg,Cast and Physical Therapy,3000,8,No,Recovered,4,36-50,Low,Long Stay
+67,45,Female,Appendicitis,Appendectomy,8000,8,No,Recovered,3,36-50,Medium,Long Stay
+101,52,Female,Respiratory Infection,Antibiotics and Rest,800,8,No,Stable,4,51-65,Low,Long Stay
+46,55,Female,Heart Disease,Angioplasty,15000,8,Yes,Recovered,3,51-65,High,Long Stay
+74,55,Male,Kidney Stones,Lithotripsy,6000,8,No,Recovered,3,51-65,Medium,Long Stay
+77,62,Male,Diabetes,Insulin Therapy,2000,8,No,Stable,4,51-65,Low,Long Stay
+96,68,Male,Hypertension,Medication and Counseling,1000,8,No,Stable,4,66+,Low,Long Stay
+9,70,Female,Heart Attack,Cardiac Catheterization,18000,8,Yes,Stable,2,66+,High,Long Stay
+19,78,Male,Stroke,CT Scan and Medication,10000,8,No,Stable,2,66+,Medium,Long Stay
+130,25,Male,Allergic Reaction,Epinephrine Injection,100,9,No,Recovered,5,19-35,Low,Long Stay
+123,30,Female,Fractured Arm,X-Ray and Splint,500,9,No,Recovered,5,19-35,Low,Long Stay
+103,32,Female,Childbirth,Delivery and Postnatal Care,12000,9,No,Recovered,4,19-35,Medium,Long Stay
+53,45,Male,Fractured Leg,Cast and Physical Therapy,3000,9,No,Recovered,4,36-50,Low,Long Stay
+61,48,Female,Heart Disease,Angioplasty,15000,9,Yes,Recovered,4,36-50,High,Long Stay
+89,50,Male,Kidney Stones,Lithotripsy,6000,9,No,Recovered,3,36-50,Medium,Long Stay
+116,52,Female,Respiratory Infection,Antibiotics and Rest,800,9,No,Stable,4,51-65,Low,Long Stay
+82,60,Female,Appendicitis,Appendectomy,8000,9,Yes,Recovered,3,51-65,Medium,Long Stay
+12,65,Male,Prostate Cancer,Radiation Therapy,20000,9,No,Recovered,3,51-65,High,Long Stay
+75,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,9,No,Stable,4,51-65,Low,Long Stay
+92,65,Male,Diabetes,Insulin Therapy,2000,9,No,Stable,3,51-65,Low,Long Stay
+34,70,Male,Stroke,CT Scan and Medication,10000,9,Yes,Stable,2,66+,Medium,Long Stay
+111,72,Male,Hypertension,Medication and Counseling,1000,9,No,Stable,4,66+,Low,Long Stay
+24,75,Female,Heart Attack,Cardiac Catheterization,18000,9,Yes,Stable,2,66+,High,Long Stay
+145,28,Male,Allergic Reaction,Epinephrine Injection,100,10,No,Recovered,5,19-35,Low,Long Stay
+118,35,Female,Childbirth,Delivery and Postnatal Care,12000,10,No,Recovered,4,19-35,Medium,Long Stay
+138,35,Female,Fractured Arm,X-Ray and Splint,500,10,Yes,Recovered,5,19-35,Low,Long Stay
+68,40,Male,Fractured Leg,Cast and Physical Therapy,3000,10,No,Recovered,4,36-50,Low,Long Stay
+97,45,Female,Appendicitis,Appendectomy,8000,10,No,Recovered,3,36-50,Medium,Long Stay
+5,50,Female,Cancer,Surgery and Chemotherapy,25000,10,No,Recovered,4,36-50,High,Long Stay
+131,52,Female,Respiratory Infection,Antibiotics and Rest,800,10,No,Stable,4,51-65,Low,Long Stay
+76,55,Female,Heart Disease,Angioplasty,15000,10,Yes,Recovered,3,51-65,High,Long Stay
+104,55,Male,Kidney Stones,Lithotripsy,6000,10,No,Recovered,3,51-65,Medium,Long Stay
+90,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,10,No,Stable,4,51-65,Low,Long Stay
+107,62,Male,Diabetes,Insulin Therapy,2000,10,No,Stable,4,51-65,Low,Long Stay
+27,67,Male,Prostate Cancer,Radiation Therapy,20000,10,No,Recovered,3,66+,High,Long Stay
+126,68,Male,Hypertension,Medication and Counseling,1000,10,No,Stable,4,66+,Low,Long Stay
+39,78,Female,Heart Attack,Cardiac Catheterization,18000,10,Yes,Stable,2,66+,High,Long Stay
+49,78,Male,Stroke,CT Scan and Medication,10000,10,No,Stable,2,66+,Medium,Long Stay
+160,25,Male,Allergic Reaction,Epinephrine Injection,100,11,No,Recovered,5,19-35,Low,Long Stay
+153,30,Female,Fractured Arm,X-Ray and Splint,500,11,No,Recovered,5,19-35,Low,Long Stay
+133,32,Female,Childbirth,Delivery and Postnatal Care,12000,11,No,Recovered,4,19-35,Medium,Long Stay
+83,45,Male,Fractured Leg,Cast and Physical Therapy,3000,11,No,Recovered,4,36-50,Low,Long Stay
+91,48,Female,Heart Disease,Angioplasty,15000,11,Yes,Recovered,4,36-50,High,Long Stay
+119,50,Male,Kidney Stones,Lithotripsy,6000,11,No,Recovered,3,36-50,Medium,Long Stay
+146,52,Female,Respiratory Infection,Antibiotics and Rest,800,11,No,Stable,4,51-65,Low,Long Stay
+20,53,Female,Cancer,Surgery and Chemotherapy,25000,11,Yes,Recovered,4,51-65,High,Long Stay
+42,58,Male,Prostate Cancer,Radiation Therapy,20000,11,No,Recovered,3,51-65,High,Long Stay
+112,60,Female,Appendicitis,Appendectomy,8000,11,Yes,Recovered,3,51-65,Medium,Long Stay
+105,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,11,No,Stable,4,51-65,Low,Long Stay
+122,65,Male,Diabetes,Insulin Therapy,2000,11,No,Stable,3,51-65,Low,Long Stay
+64,70,Male,Stroke,CT Scan and Medication,10000,11,Yes,Stable,2,66+,Medium,Long Stay
+141,72,Male,Hypertension,Medication and Counseling,1000,11,No,Stable,4,66+,Low,Long Stay
+54,75,Female,Heart Attack,Cardiac Catheterization,18000,11,Yes,Stable,2,66+,High,Long Stay
+175,28,Male,Allergic Reaction,Epinephrine Injection,100,12,No,Recovered,5,19-35,Low,Long Stay
+148,35,Female,Childbirth,Delivery and Postnatal Care,12000,12,No,Recovered,4,19-35,Medium,Long Stay
+168,35,Female,Fractured Arm,X-Ray and Splint,500,12,Yes,Recovered,5,19-35,Low,Long Stay
+98,40,Male,Fractured Leg,Cast and Physical Therapy,3000,12,No,Recovered,4,36-50,Low,Long Stay
+127,45,Female,Appendicitis,Appendectomy,8000,12,No,Recovered,3,36-50,Medium,Long Stay
+161,52,Female,Respiratory Infection,Antibiotics and Rest,800,12,No,Stable,4,51-65,Low,Long Stay
+35,55,Female,Cancer,Surgery and Chemotherapy,25000,12,No,Recovered,4,51-65,High,Long Stay
+106,55,Female,Heart Disease,Angioplasty,15000,12,Yes,Recovered,3,51-65,High,Long Stay
+134,55,Male,Kidney Stones,Lithotripsy,6000,12,No,Recovered,3,51-65,Medium,Long Stay
+120,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,12,No,Stable,4,51-65,Low,Long Stay
+137,62,Male,Diabetes,Insulin Therapy,2000,12,No,Stable,4,51-65,Low,Long Stay
+57,67,Male,Prostate Cancer,Radiation Therapy,20000,12,No,Recovered,3,66+,High,Long Stay
+156,68,Male,Hypertension,Medication and Counseling,1000,12,No,Stable,4,66+,Low,Long Stay
+69,78,Female,Heart Attack,Cardiac Catheterization,18000,12,Yes,Stable,2,66+,High,Long Stay
+79,78,Male,Stroke,CT Scan and Medication,10000,12,No,Stable,2,66+,Medium,Long Stay
+190,25,Male,Allergic Reaction,Epinephrine Injection,100,13,No,Recovered,5,19-35,Low,Long Stay
+183,30,Female,Fractured Arm,X-Ray and Splint,500,13,No,Recovered,5,19-35,Low,Long Stay
+163,32,Female,Childbirth,Delivery and Postnatal Care,12000,13,No,Recovered,4,19-35,Medium,Long Stay
+113,45,Male,Fractured Leg,Cast and Physical Therapy,3000,13,No,Recovered,4,36-50,Low,Long Stay
+149,50,Male,Kidney Stones,Lithotripsy,6000,13,No,Recovered,3,36-50,Medium,Long Stay
+176,52,Female,Respiratory Infection,Antibiotics and Rest,800,13,No,Stable,4,51-65,Low,Long Stay
+50,53,Female,Cancer,Surgery and Chemotherapy,25000,13,Yes,Recovered,4,51-65,High,Long Stay
+72,58,Male,Prostate Cancer,Radiation Therapy,20000,13,No,Recovered,3,51-65,High,Long Stay
+142,60,Female,Appendicitis,Appendectomy,8000,13,Yes,Recovered,3,51-65,Medium,Long Stay
+135,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,13,No,Stable,4,51-65,Low,Long Stay
+152,65,Male,Diabetes,Insulin Therapy,2000,13,No,Stable,3,51-65,Low,Long Stay
+94,70,Male,Stroke,CT Scan and Medication,10000,13,Yes,Stable,2,66+,Medium,Long Stay
+171,72,Male,Hypertension,Medication and Counseling,1000,13,No,Stable,4,66+,Low,Long Stay
+84,75,Female,Heart Attack,Cardiac Catheterization,18000,13,Yes,Stable,2,66+,High,Long Stay
+205,28,Male,Allergic Reaction,Epinephrine Injection,100,14,No,Recovered,5,19-35,Low,Long Stay
+178,35,Female,Childbirth,Delivery and Postnatal Care,12000,14,No,Recovered,4,19-35,Medium,Long Stay
+198,35,Female,Fractured Arm,X-Ray and Splint,500,14,Yes,Recovered,5,19-35,Low,Long Stay
+128,40,Male,Fractured Leg,Cast and Physical Therapy,3000,14,No,Recovered,4,36-50,Low,Long Stay
+157,45,Female,Appendicitis,Appendectomy,8000,14,No,Recovered,3,36-50,Medium,Long Stay
+191,52,Female,Respiratory Infection,Antibiotics and Rest,800,14,No,Stable,4,51-65,Low,Long Stay
+65,55,Female,Cancer,Surgery and Chemotherapy,25000,14,No,Recovered,4,51-65,High,Long Stay
+136,55,Female,Heart Disease,Angioplasty,15000,14,Yes,Recovered,3,51-65,High,Long Stay
+164,55,Male,Kidney Stones,Lithotripsy,6000,14,No,Recovered,3,51-65,Medium,Long Stay
+150,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,14,No,Stable,4,51-65,Low,Long Stay
+167,62,Male,Diabetes,Insulin Therapy,2000,14,No,Stable,4,51-65,Low,Long Stay
+87,67,Male,Prostate Cancer,Radiation Therapy,20000,14,No,Recovered,3,66+,High,Long Stay
+186,68,Male,Hypertension,Medication and Counseling,1000,14,No,Stable,4,66+,Low,Long Stay
+99,78,Female,Heart Attack,Cardiac Catheterization,18000,14,Yes,Stable,2,66+,High,Long Stay
+109,78,Male,Stroke,CT Scan and Medication,10000,14,No,Stable,2,66+,Medium,Long Stay
+220,25,Male,Allergic Reaction,Epinephrine Injection,100,15,No,Recovered,5,19-35,Low,Long Stay
+213,30,Female,Fractured Arm,X-Ray and Splint,500,15,No,Recovered,5,19-35,Low,Long Stay
+193,32,Female,Childbirth,Delivery and Postnatal Care,12000,15,No,Recovered,4,19-35,Medium,Long Stay
+143,45,Male,Fractured Leg,Cast and Physical Therapy,3000,15,No,Recovered,4,36-50,Low,Long Stay
+151,48,Female,Heart Disease,Angioplasty,15000,15,Yes,Recovered,4,36-50,High,Long Stay
+179,50,Male,Kidney Stones,Lithotripsy,6000,15,No,Recovered,3,36-50,Medium,Long Stay
+206,52,Female,Respiratory Infection,Antibiotics and Rest,800,15,No,Stable,4,51-65,Low,Long Stay
+80,53,Female,Cancer,Surgery and Chemotherapy,25000,15,Yes,Recovered,4,51-65,High,Long Stay
+102,58,Male,Prostate Cancer,Radiation Therapy,20000,15,No,Recovered,3,51-65,High,Long Stay
+172,60,Female,Appendicitis,Appendectomy,8000,15,Yes,Recovered,3,51-65,Medium,Long Stay
+165,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,15,No,Stable,4,51-65,Low,Long Stay
+124,70,Male,Stroke,CT Scan and Medication,10000,15,Yes,Stable,2,66+,Medium,Long Stay
+201,72,Male,Hypertension,Medication and Counseling,1000,15,No,Stable,4,66+,Low,Long Stay
+114,75,Female,Heart Attack,Cardiac Catheterization,18000,15,Yes,Stable,2,66+,High,Long Stay
+235,28,Male,Allergic Reaction,Epinephrine Injection,100,16,No,Recovered,5,19-35,Low,Long Stay
+208,35,Female,Childbirth,Delivery and Postnatal Care,12000,16,No,Recovered,4,19-35,Medium,Long Stay
+228,35,Female,Fractured Arm,X-Ray and Splint,500,16,Yes,Recovered,5,19-35,Low,Long Stay
+158,40,Male,Fractured Leg,Cast and Physical Therapy,3000,16,No,Recovered,4,36-50,Low,Long Stay
+187,45,Female,Appendicitis,Appendectomy,8000,16,No,Recovered,3,36-50,Medium,Long Stay
+221,52,Female,Respiratory Infection,Antibiotics and Rest,800,16,No,Stable,4,51-65,Low,Long Stay
+95,55,Female,Cancer,Surgery and Chemotherapy,25000,16,No,Recovered,4,51-65,High,Long Stay
+166,55,Female,Heart Disease,Angioplasty,15000,16,Yes,Recovered,3,51-65,High,Long Stay
+194,55,Male,Kidney Stones,Lithotripsy,6000,16,No,Recovered,3,51-65,Medium,Long Stay
+180,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,16,No,Stable,4,51-65,Low,Long Stay
+197,62,Male,Diabetes,Insulin Therapy,2000,16,No,Stable,4,51-65,Low,Long Stay
+117,67,Male,Prostate Cancer,Radiation Therapy,20000,16,No,Recovered,3,66+,High,Long Stay
+216,68,Male,Hypertension,Medication and Counseling,1000,16,No,Stable,4,66+,Low,Long Stay
+129,78,Female,Heart Attack,Cardiac Catheterization,18000,16,Yes,Stable,2,66+,High,Long Stay
+139,78,Male,Stroke,CT Scan and Medication,10000,16,No,Stable,2,66+,Medium,Long Stay
+250,25,Male,Allergic Reaction,Epinephrine Injection,100,17,No,Recovered,5,19-35,Low,Long Stay
+223,32,Female,Childbirth,Delivery and Postnatal Care,12000,17,No,Recovered,4,19-35,Medium,Long Stay
+173,45,Male,Fractured Leg,Cast and Physical Therapy,3000,17,No,Recovered,4,36-50,Low,Long Stay
+181,48,Female,Heart Disease,Angioplasty,15000,17,Yes,Recovered,4,36-50,High,Long Stay
+209,50,Male,Kidney Stones,Lithotripsy,6000,17,No,Recovered,3,36-50,Medium,Long Stay
+236,52,Female,Respiratory Infection,Antibiotics and Rest,800,17,No,Stable,4,51-65,Low,Long Stay
+110,53,Female,Cancer,Surgery and Chemotherapy,25000,17,Yes,Recovered,4,51-65,High,Long Stay
+132,58,Male,Prostate Cancer,Radiation Therapy,20000,17,No,Recovered,3,51-65,High,Long Stay
+202,60,Female,Appendicitis,Appendectomy,8000,17,Yes,Recovered,3,51-65,Medium,Long Stay
+195,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,17,No,Stable,4,51-65,Low,Long Stay
+212,65,Male,Diabetes,Insulin Therapy,2000,17,No,Stable,3,51-65,Low,Long Stay
+154,70,Male,Stroke,CT Scan and Medication,10000,17,Yes,Stable,2,66+,Medium,Long Stay
+231,72,Male,Hypertension,Medication and Counseling,1000,17,No,Stable,4,66+,Low,Long Stay
+144,75,Female,Heart Attack,Cardiac Catheterization,18000,17,Yes,Stable,2,66+,High,Long Stay
+265,28,Male,Allergic Reaction,Epinephrine Injection,100,18,No,Recovered,5,19-35,Low,Long Stay
+238,35,Female,Childbirth,Delivery and Postnatal Care,12000,18,No,Recovered,4,19-35,Medium,Long Stay
+258,35,Female,Fractured Arm,X-Ray and Splint,500,18,Yes,Recovered,5,19-35,Low,Long Stay
+188,40,Male,Fractured Leg,Cast and Physical Therapy,3000,18,No,Recovered,4,36-50,Low,Long Stay
+217,45,Female,Appendicitis,Appendectomy,8000,18,No,Recovered,3,36-50,Medium,Long Stay
+251,52,Female,Respiratory Infection,Antibiotics and Rest,800,18,No,Stable,4,51-65,Low,Long Stay
+125,55,Female,Cancer,Surgery and Chemotherapy,25000,18,No,Recovered,4,51-65,High,Long Stay
+196,55,Female,Heart Disease,Angioplasty,15000,18,Yes,Recovered,3,51-65,High,Long Stay
+224,55,Male,Kidney Stones,Lithotripsy,6000,18,No,Recovered,3,51-65,Medium,Long Stay
+210,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,18,No,Stable,4,51-65,Low,Long Stay
+227,62,Male,Diabetes,Insulin Therapy,2000,18,No,Stable,4,51-65,Low,Long Stay
+147,67,Male,Prostate Cancer,Radiation Therapy,20000,18,No,Recovered,3,66+,High,Long Stay
+246,68,Male,Hypertension,Medication and Counseling,1000,18,No,Stable,4,66+,Low,Long Stay
+159,78,Female,Heart Attack,Cardiac Catheterization,18000,18,Yes,Stable,2,66+,High,Long Stay
+169,78,Male,Stroke,CT Scan and Medication,10000,18,No,Stable,2,66+,Medium,Long Stay
+280,25,Male,Allergic Reaction,Epinephrine Injection,100,19,No,Recovered,5,19-35,Low,Long Stay
+273,30,Female,Fractured Arm,X-Ray and Splint,500,19,No,Recovered,5,19-35,Low,Long Stay
+253,32,Female,Childbirth,Delivery and Postnatal Care,12000,19,No,Recovered,4,19-35,Medium,Long Stay
+203,45,Male,Fractured Leg,Cast and Physical Therapy,3000,19,No,Recovered,4,36-50,Low,Long Stay
+211,48,Female,Heart Disease,Angioplasty,15000,19,Yes,Recovered,4,36-50,High,Long Stay
+239,50,Male,Kidney Stones,Lithotripsy,6000,19,No,Recovered,3,36-50,Medium,Long Stay
+266,52,Female,Respiratory Infection,Antibiotics and Rest,800,19,No,Stable,4,51-65,Low,Long Stay
+140,53,Female,Cancer,Surgery and Chemotherapy,25000,19,Yes,Recovered,4,51-65,High,Long Stay
+162,58,Male,Prostate Cancer,Radiation Therapy,20000,19,No,Recovered,3,51-65,High,Long Stay
+232,60,Female,Appendicitis,Appendectomy,8000,19,Yes,Recovered,3,51-65,Medium,Long Stay
+225,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,19,No,Stable,4,51-65,Low,Long Stay
+242,65,Male,Diabetes,Insulin Therapy,2000,19,No,Stable,3,51-65,Low,Long Stay
+184,70,Male,Stroke,CT Scan and Medication,10000,19,Yes,Stable,2,66+,Medium,Long Stay
+261,72,Male,Hypertension,Medication and Counseling,1000,19,No,Stable,4,66+,Low,Long Stay
+174,75,Female,Heart Attack,Cardiac Catheterization,18000,19,Yes,Stable,2,66+,High,Long Stay
+268,35,Female,Childbirth,Delivery and Postnatal Care,12000,20,No,Recovered,4,19-35,Medium,Long Stay
+288,35,Female,Fractured Arm,X-Ray and Splint,500,20,Yes,Recovered,5,19-35,Low,Long Stay
+218,40,Male,Fractured Leg,Cast and Physical Therapy,3000,20,No,Recovered,4,36-50,Low,Long Stay
+247,45,Female,Appendicitis,Appendectomy,8000,20,No,Recovered,3,36-50,Medium,Long Stay
+281,52,Female,Respiratory Infection,Antibiotics and Rest,800,20,No,Stable,4,51-65,Low,Long Stay
+155,55,Female,Cancer,Surgery and Chemotherapy,25000,20,No,Recovered,4,51-65,High,Long Stay
+226,55,Female,Heart Disease,Angioplasty,15000,20,Yes,Recovered,3,51-65,High,Long Stay
+254,55,Male,Kidney Stones,Lithotripsy,6000,20,No,Recovered,3,51-65,Medium,Long Stay
+240,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,20,No,Stable,4,51-65,Low,Long Stay
+257,62,Male,Diabetes,Insulin Therapy,2000,20,No,Stable,4,51-65,Low,Long Stay
+177,67,Male,Prostate Cancer,Radiation Therapy,20000,20,No,Recovered,3,66+,High,Long Stay
+276,68,Male,Hypertension,Medication and Counseling,1000,20,No,Stable,4,66+,Low,Long Stay
+189,78,Female,Heart Attack,Cardiac Catheterization,18000,20,Yes,Stable,2,66+,High,Long Stay
+199,78,Male,Stroke,CT Scan and Medication,10000,20,No,Stable,2,66+,Medium,Long Stay
+310,25,Male,Allergic Reaction,Epinephrine Injection,100,21,No,Recovered,5,19-35,Low,Long Stay
+303,30,Female,Fractured Arm,X-Ray and Splint,500,21,No,Recovered,5,19-35,Low,Long Stay
+283,32,Female,Childbirth,Delivery and Postnatal Care,12000,21,No,Recovered,4,19-35,Medium,Long Stay
+233,45,Male,Fractured Leg,Cast and Physical Therapy,3000,21,No,Recovered,4,36-50,Low,Long Stay
+241,48,Female,Heart Disease,Angioplasty,15000,21,Yes,Recovered,4,36-50,High,Long Stay
+269,50,Male,Kidney Stones,Lithotripsy,6000,21,No,Recovered,3,36-50,Medium,Long Stay
+296,52,Female,Respiratory Infection,Antibiotics and Rest,800,21,No,Stable,4,51-65,Low,Long Stay
+170,53,Female,Cancer,Surgery and Chemotherapy,25000,21,Yes,Recovered,4,51-65,High,Long Stay
+192,58,Male,Prostate Cancer,Radiation Therapy,20000,21,No,Recovered,3,51-65,High,Long Stay
+262,60,Female,Appendicitis,Appendectomy,8000,21,Yes,Recovered,3,51-65,Medium,Long Stay
+255,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,21,No,Stable,4,51-65,Low,Long Stay
+272,65,Male,Diabetes,Insulin Therapy,2000,21,No,Stable,3,51-65,Low,Long Stay
+214,70,Male,Stroke,CT Scan and Medication,10000,21,Yes,Stable,2,66+,Medium,Long Stay
+291,72,Male,Hypertension,Medication and Counseling,1000,21,No,Stable,4,66+,Low,Long Stay
+204,75,Female,Heart Attack,Cardiac Catheterization,18000,21,Yes,Stable,2,66+,High,Long Stay
+325,28,Male,Allergic Reaction,Epinephrine Injection,100,22,No,Recovered,5,19-35,Low,Long Stay
+298,35,Female,Childbirth,Delivery and Postnatal Care,12000,22,No,Recovered,4,19-35,Medium,Long Stay
+318,35,Female,Fractured Arm,X-Ray and Splint,500,22,Yes,Recovered,5,19-35,Low,Long Stay
+248,40,Male,Fractured Leg,Cast and Physical Therapy,3000,22,No,Recovered,4,36-50,Low,Long Stay
+277,45,Female,Appendicitis,Appendectomy,8000,22,No,Recovered,3,36-50,Medium,Long Stay
+311,52,Female,Respiratory Infection,Antibiotics and Rest,800,22,No,Stable,4,51-65,Low,Long Stay
+185,55,Female,Cancer,Surgery and Chemotherapy,25000,22,No,Recovered,4,51-65,High,Long Stay
+256,55,Female,Heart Disease,Angioplasty,15000,22,Yes,Recovered,3,51-65,High,Long Stay
+284,55,Male,Kidney Stones,Lithotripsy,6000,22,No,Recovered,3,51-65,Medium,Long Stay
+270,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,22,No,Stable,4,51-65,Low,Long Stay
+287,62,Male,Diabetes,Insulin Therapy,2000,22,No,Stable,4,51-65,Low,Long Stay
+207,67,Male,Prostate Cancer,Radiation Therapy,20000,22,No,Recovered,3,66+,High,Long Stay
+306,68,Male,Hypertension,Medication and Counseling,1000,22,No,Stable,4,66+,Low,Long Stay
+219,78,Female,Heart Attack,Cardiac Catheterization,18000,22,Yes,Stable,2,66+,High,Long Stay
+229,78,Male,Stroke,CT Scan and Medication,10000,22,No,Stable,2,66+,Medium,Long Stay
+340,25,Male,Allergic Reaction,Epinephrine Injection,100,23,No,Recovered,5,19-35,Low,Long Stay
+333,30,Female,Fractured Arm,X-Ray and Splint,500,23,No,Recovered,5,19-35,Low,Long Stay
+313,32,Female,Childbirth,Delivery and Postnatal Care,12000,23,No,Recovered,4,19-35,Medium,Long Stay
+263,45,Male,Fractured Leg,Cast and Physical Therapy,3000,23,No,Recovered,4,36-50,Low,Long Stay
+271,48,Female,Heart Disease,Angioplasty,15000,23,Yes,Recovered,4,36-50,High,Long Stay
+299,50,Male,Kidney Stones,Lithotripsy,6000,23,No,Recovered,3,36-50,Medium,Long Stay
+326,52,Female,Respiratory Infection,Antibiotics and Rest,800,23,No,Stable,4,51-65,Low,Long Stay
+200,53,Female,Cancer,Surgery and Chemotherapy,25000,23,Yes,Recovered,4,51-65,High,Long Stay
+222,58,Male,Prostate Cancer,Radiation Therapy,20000,23,No,Recovered,3,51-65,High,Long Stay
+292,60,Female,Appendicitis,Appendectomy,8000,23,Yes,Recovered,3,51-65,Medium,Long Stay
+285,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,23,No,Stable,4,51-65,Low,Long Stay
+302,65,Male,Diabetes,Insulin Therapy,2000,23,No,Stable,3,51-65,Low,Long Stay
+244,70,Male,Stroke,CT Scan and Medication,10000,23,Yes,Stable,2,66+,Medium,Long Stay
+321,72,Male,Hypertension,Medication and Counseling,1000,23,No,Stable,4,66+,Low,Long Stay
+234,75,Female,Heart Attack,Cardiac Catheterization,18000,23,Yes,Stable,2,66+,High,Long Stay
+355,28,Male,Allergic Reaction,Epinephrine Injection,100,24,No,Recovered,5,19-35,Low,Long Stay
+328,35,Female,Childbirth,Delivery and Postnatal Care,12000,24,No,Recovered,4,19-35,Medium,Long Stay
+348,35,Female,Fractured Arm,X-Ray and Splint,500,24,Yes,Recovered,5,19-35,Low,Long Stay
+278,40,Male,Fractured Leg,Cast and Physical Therapy,3000,24,No,Recovered,4,36-50,Low,Long Stay
+307,45,Female,Appendicitis,Appendectomy,8000,24,No,Recovered,3,36-50,Medium,Long Stay
+341,52,Female,Respiratory Infection,Antibiotics and Rest,800,24,No,Stable,4,51-65,Low,Long Stay
+215,55,Female,Cancer,Surgery and Chemotherapy,25000,24,No,Recovered,4,51-65,High,Long Stay
+286,55,Female,Heart Disease,Angioplasty,15000,24,Yes,Recovered,3,51-65,High,Long Stay
+314,55,Male,Kidney Stones,Lithotripsy,6000,24,No,Recovered,3,51-65,Medium,Long Stay
+300,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,24,No,Stable,4,51-65,Low,Long Stay
+317,62,Male,Diabetes,Insulin Therapy,2000,24,No,Stable,4,51-65,Low,Long Stay
+237,67,Male,Prostate Cancer,Radiation Therapy,20000,24,No,Recovered,3,66+,High,Long Stay
+336,68,Male,Hypertension,Medication and Counseling,1000,24,No,Stable,4,66+,Low,Long Stay
+249,78,Female,Heart Attack,Cardiac Catheterization,18000,24,Yes,Stable,2,66+,High,Long Stay
+259,78,Male,Stroke,CT Scan and Medication,10000,24,No,Stable,2,66+,Medium,Long Stay
+370,25,Male,Allergic Reaction,Epinephrine Injection,100,25,No,Recovered,5,19-35,Low,Long Stay
+363,30,Female,Fractured Arm,X-Ray and Splint,500,25,No,Recovered,5,19-35,Low,Long Stay
+343,32,Female,Childbirth,Delivery and Postnatal Care,12000,25,No,Recovered,4,19-35,Medium,Long Stay
+293,45,Male,Fractured Leg,Cast and Physical Therapy,3000,25,No,Recovered,4,36-50,Low,Long Stay
+301,48,Female,Heart Disease,Angioplasty,15000,25,Yes,Recovered,4,36-50,High,Long Stay
+329,50,Male,Kidney Stones,Lithotripsy,6000,25,No,Recovered,3,36-50,Medium,Long Stay
+230,53,Female,Cancer,Surgery and Chemotherapy,25000,25,Yes,Recovered,4,51-65,High,Long Stay
+252,58,Male,Prostate Cancer,Radiation Therapy,20000,25,No,Recovered,3,51-65,High,Long Stay
+322,60,Female,Appendicitis,Appendectomy,8000,25,Yes,Recovered,3,51-65,Medium,Long Stay
+315,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,25,No,Stable,4,51-65,Low,Long Stay
+332,65,Male,Diabetes,Insulin Therapy,2000,25,No,Stable,3,51-65,Low,Long Stay
+274,70,Male,Stroke,CT Scan and Medication,10000,25,Yes,Stable,2,66+,Medium,Long Stay
+351,72,Male,Hypertension,Medication and Counseling,1000,25,No,Stable,4,66+,Low,Long Stay
+264,75,Female,Heart Attack,Cardiac Catheterization,18000,25,Yes,Stable,2,66+,High,Long Stay
+385,28,Male,Allergic Reaction,Epinephrine Injection,100,26,No,Recovered,5,19-35,Low,Long Stay
+358,35,Female,Childbirth,Delivery and Postnatal Care,12000,26,No,Recovered,4,19-35,Medium,Long Stay
+378,35,Female,Fractured Arm,X-Ray and Splint,500,26,Yes,Recovered,5,19-35,Low,Long Stay
+308,40,Male,Fractured Leg,Cast and Physical Therapy,3000,26,No,Recovered,4,36-50,Low,Long Stay
+337,45,Female,Appendicitis,Appendectomy,8000,26,No,Recovered,3,36-50,Medium,Long Stay
+371,52,Female,Respiratory Infection,Antibiotics and Rest,800,26,No,Stable,4,51-65,Low,Long Stay
+245,55,Female,Cancer,Surgery and Chemotherapy,25000,26,No,Recovered,4,51-65,High,Long Stay
+316,55,Female,Heart Disease,Angioplasty,15000,26,Yes,Recovered,3,51-65,High,Long Stay
+344,55,Male,Kidney Stones,Lithotripsy,6000,26,No,Recovered,3,51-65,Medium,Long Stay
+330,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,26,No,Stable,4,51-65,Low,Long Stay
+347,62,Male,Diabetes,Insulin Therapy,2000,26,No,Stable,4,51-65,Low,Long Stay
+267,67,Male,Prostate Cancer,Radiation Therapy,20000,26,No,Recovered,3,66+,High,Long Stay
+366,68,Male,Hypertension,Medication and Counseling,1000,26,No,Stable,4,66+,Low,Long Stay
+279,78,Female,Heart Attack,Cardiac Catheterization,18000,26,Yes,Stable,2,66+,High,Long Stay
+289,78,Male,Stroke,CT Scan and Medication,10000,26,No,Stable,2,66+,Medium,Long Stay
+400,25,Male,Allergic Reaction,Epinephrine Injection,100,27,No,Recovered,5,19-35,Low,Long Stay
+393,30,Female,Fractured Arm,X-Ray and Splint,500,27,No,Recovered,5,19-35,Low,Long Stay
+373,32,Female,Childbirth,Delivery and Postnatal Care,12000,27,No,Recovered,4,19-35,Medium,Long Stay
+323,45,Male,Fractured Leg,Cast and Physical Therapy,3000,27,No,Recovered,4,36-50,Low,Long Stay
+331,48,Female,Heart Disease,Angioplasty,15000,27,Yes,Recovered,4,36-50,High,Long Stay
+359,50,Male,Kidney Stones,Lithotripsy,6000,27,No,Recovered,3,36-50,Medium,Long Stay
+386,52,Female,Respiratory Infection,Antibiotics and Rest,800,27,No,Stable,4,51-65,Low,Long Stay
+260,53,Female,Cancer,Surgery and Chemotherapy,25000,27,Yes,Recovered,4,51-65,High,Long Stay
+282,58,Male,Prostate Cancer,Radiation Therapy,20000,27,No,Recovered,3,51-65,High,Long Stay
+352,60,Female,Appendicitis,Appendectomy,8000,27,Yes,Recovered,3,51-65,Medium,Long Stay
+345,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,27,No,Stable,4,51-65,Low,Long Stay
+362,65,Male,Diabetes,Insulin Therapy,2000,27,No,Stable,3,51-65,Low,Long Stay
+304,70,Male,Stroke,CT Scan and Medication,10000,27,Yes,Stable,2,66+,Medium,Long Stay
+381,72,Male,Hypertension,Medication and Counseling,1000,27,No,Stable,4,66+,Low,Long Stay
+294,75,Female,Heart Attack,Cardiac Catheterization,18000,27,Yes,Stable,2,66+,High,Long Stay
+415,28,Male,Allergic Reaction,Epinephrine Injection,100,28,No,Recovered,5,19-35,Low,Long Stay
+388,35,Female,Childbirth,Delivery and Postnatal Care,12000,28,No,Recovered,4,19-35,Medium,Long Stay
+408,35,Female,Fractured Arm,X-Ray and Splint,500,28,Yes,Recovered,5,19-35,Low,Long Stay
+338,40,Male,Fractured Leg,Cast and Physical Therapy,3000,28,No,Recovered,4,36-50,Low,Long Stay
+367,45,Female,Appendicitis,Appendectomy,8000,28,No,Recovered,3,36-50,Medium,Long Stay
+401,52,Female,Respiratory Infection,Antibiotics and Rest,800,28,No,Stable,4,51-65,Low,Long Stay
+275,55,Female,Cancer,Surgery and Chemotherapy,25000,28,No,Recovered,4,51-65,High,Long Stay
+346,55,Female,Heart Disease,Angioplasty,15000,28,Yes,Recovered,3,51-65,High,Long Stay
+374,55,Male,Kidney Stones,Lithotripsy,6000,28,No,Recovered,3,51-65,Medium,Long Stay
+360,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,28,No,Stable,4,51-65,Low,Long Stay
+377,62,Male,Diabetes,Insulin Therapy,2000,28,No,Stable,4,51-65,Low,Long Stay
+297,67,Male,Prostate Cancer,Radiation Therapy,20000,28,No,Recovered,3,66+,High,Long Stay
+396,68,Male,Hypertension,Medication and Counseling,1000,28,No,Stable,4,66+,Low,Long Stay
+309,78,Female,Heart Attack,Cardiac Catheterization,18000,28,Yes,Stable,2,66+,High,Long Stay
+319,78,Male,Stroke,CT Scan and Medication,10000,28,No,Stable,2,66+,Medium,Long Stay
+430,25,Male,Allergic Reaction,Epinephrine Injection,100,29,No,Recovered,5,19-35,Low,Long Stay
+423,30,Female,Fractured Arm,X-Ray and Splint,500,29,No,Recovered,5,19-35,Low,Long Stay
+403,32,Female,Childbirth,Delivery and Postnatal Care,12000,29,No,Recovered,4,19-35,Medium,Long Stay
+353,45,Male,Fractured Leg,Cast and Physical Therapy,3000,29,No,Recovered,4,36-50,Low,Long Stay
+361,48,Female,Heart Disease,Angioplasty,15000,29,Yes,Recovered,4,36-50,High,Long Stay
+389,50,Male,Kidney Stones,Lithotripsy,6000,29,No,Recovered,3,36-50,Medium,Long Stay
+416,52,Female,Respiratory Infection,Antibiotics and Rest,800,29,No,Stable,4,51-65,Low,Long Stay
+290,53,Female,Cancer,Surgery and Chemotherapy,25000,29,Yes,Recovered,4,51-65,High,Long Stay
+312,58,Male,Prostate Cancer,Radiation Therapy,20000,29,No,Recovered,3,51-65,High,Long Stay
+382,60,Female,Appendicitis,Appendectomy,8000,29,Yes,Recovered,3,51-65,Medium,Long Stay
+375,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,29,No,Stable,4,51-65,Low,Long Stay
+392,65,Male,Diabetes,Insulin Therapy,2000,29,No,Stable,3,51-65,Low,Long Stay
+334,70,Male,Stroke,CT Scan and Medication,10000,29,Yes,Stable,2,66+,Medium,Long Stay
+411,72,Male,Hypertension,Medication and Counseling,1000,29,No,Stable,4,66+,Low,Long Stay
+324,75,Female,Heart Attack,Cardiac Catheterization,18000,29,Yes,Stable,2,66+,High,Long Stay
+445,28,Male,Allergic Reaction,Epinephrine Injection,100,30,No,Recovered,5,19-35,Low,Long Stay
+418,35,Female,Childbirth,Delivery and Postnatal Care,12000,30,No,Recovered,4,19-35,Medium,Long Stay
+438,35,Female,Fractured Arm,X-Ray and Splint,500,30,Yes,Recovered,5,19-35,Low,Long Stay
+368,40,Male,Fractured Leg,Cast and Physical Therapy,3000,30,No,Recovered,4,36-50,Low,Long Stay
+397,45,Female,Appendicitis,Appendectomy,8000,30,No,Recovered,3,36-50,Medium,Long Stay
+431,52,Female,Respiratory Infection,Antibiotics and Rest,800,30,No,Stable,4,51-65,Low,Long Stay
+305,55,Female,Cancer,Surgery and Chemotherapy,25000,30,No,Recovered,4,51-65,High,Long Stay
+376,55,Female,Heart Disease,Angioplasty,15000,30,Yes,Recovered,3,51-65,High,Long Stay
+404,55,Male,Kidney Stones,Lithotripsy,6000,30,No,Recovered,3,51-65,Medium,Long Stay
+390,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,30,No,Stable,4,51-65,Low,Long Stay
+407,62,Male,Diabetes,Insulin Therapy,2000,30,No,Stable,4,51-65,Low,Long Stay
+327,67,Male,Prostate Cancer,Radiation Therapy,20000,30,No,Recovered,3,66+,High,Long Stay
+426,68,Male,Hypertension,Medication and Counseling,1000,30,No,Stable,4,66+,Low,Long Stay
+339,78,Female,Heart Attack,Cardiac Catheterization,18000,30,Yes,Stable,2,66+,High,Long Stay
+349,78,Male,Stroke,CT Scan and Medication,10000,30,No,Stable,2,66+,Medium,Long Stay
+460,25,Male,Allergic Reaction,Epinephrine Injection,100,31,No,Recovered,5,19-35,Low,Long Stay
+453,30,Female,Fractured Arm,X-Ray and Splint,500,31,No,Recovered,5,19-35,Low,Long Stay
+433,32,Female,Childbirth,Delivery and Postnatal Care,12000,31,No,Recovered,4,19-35,Medium,Long Stay
+383,45,Male,Fractured Leg,Cast and Physical Therapy,3000,31,No,Recovered,4,36-50,Low,Long Stay
+391,48,Female,Heart Disease,Angioplasty,15000,31,Yes,Recovered,4,36-50,High,Long Stay
+419,50,Male,Kidney Stones,Lithotripsy,6000,31,No,Recovered,3,36-50,Medium,Long Stay
+446,52,Female,Respiratory Infection,Antibiotics and Rest,800,31,No,Stable,4,51-65,Low,Long Stay
+320,53,Female,Cancer,Surgery and Chemotherapy,25000,31,Yes,Recovered,4,51-65,High,Long Stay
+342,58,Male,Prostate Cancer,Radiation Therapy,20000,31,No,Recovered,3,51-65,High,Long Stay
+412,60,Female,Appendicitis,Appendectomy,8000,31,Yes,Recovered,3,51-65,Medium,Long Stay
+405,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,31,No,Stable,4,51-65,Low,Long Stay
+422,65,Male,Diabetes,Insulin Therapy,2000,31,No,Stable,3,51-65,Low,Long Stay
+364,70,Male,Stroke,CT Scan and Medication,10000,31,Yes,Stable,2,66+,Medium,Long Stay
+441,72,Male,Hypertension,Medication and Counseling,1000,31,No,Stable,4,66+,Low,Long Stay
+354,75,Female,Heart Attack,Cardiac Catheterization,18000,31,Yes,Stable,2,66+,High,Long Stay
+475,28,Male,Allergic Reaction,Epinephrine Injection,100,32,No,Recovered,5,19-35,Low,Long Stay
+448,35,Female,Childbirth,Delivery and Postnatal Care,12000,32,No,Recovered,4,19-35,Medium,Long Stay
+468,35,Female,Fractured Arm,X-Ray and Splint,500,32,Yes,Recovered,5,19-35,Low,Long Stay
+398,40,Male,Fractured Leg,Cast and Physical Therapy,3000,32,No,Recovered,4,36-50,Low,Long Stay
+427,45,Female,Appendicitis,Appendectomy,8000,32,No,Recovered,3,36-50,Medium,Long Stay
+461,52,Female,Respiratory Infection,Antibiotics and Rest,800,32,No,Stable,4,51-65,Low,Long Stay
+335,55,Female,Cancer,Surgery and Chemotherapy,25000,32,No,Recovered,4,51-65,High,Long Stay
+406,55,Female,Heart Disease,Angioplasty,15000,32,Yes,Recovered,3,51-65,High,Long Stay
+434,55,Male,Kidney Stones,Lithotripsy,6000,32,No,Recovered,3,51-65,Medium,Long Stay
+420,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,32,No,Stable,4,51-65,Low,Long Stay
+437,62,Male,Diabetes,Insulin Therapy,2000,32,No,Stable,4,51-65,Low,Long Stay
+357,67,Male,Prostate Cancer,Radiation Therapy,20000,32,No,Recovered,3,66+,High,Long Stay
+456,68,Male,Hypertension,Medication and Counseling,1000,32,No,Stable,4,66+,Low,Long Stay
+369,78,Female,Heart Attack,Cardiac Catheterization,18000,32,Yes,Stable,2,66+,High,Long Stay
+490,25,Male,Allergic Reaction,Epinephrine Injection,100,33,No,Recovered,5,19-35,Low,Long Stay
+483,30,Female,Fractured Arm,X-Ray and Splint,500,33,No,Recovered,5,19-35,Low,Long Stay
+463,32,Female,Childbirth,Delivery and Postnatal Care,12000,33,No,Recovered,4,19-35,Medium,Long Stay
+413,45,Male,Fractured Leg,Cast and Physical Therapy,3000,33,No,Recovered,4,36-50,Low,Long Stay
+421,48,Female,Heart Disease,Angioplasty,15000,33,Yes,Recovered,4,36-50,High,Long Stay
+449,50,Male,Kidney Stones,Lithotripsy,6000,33,No,Recovered,3,36-50,Medium,Long Stay
+476,52,Female,Respiratory Infection,Antibiotics and Rest,800,33,No,Stable,4,51-65,Low,Long Stay
+350,53,Female,Cancer,Surgery and Chemotherapy,25000,33,Yes,Recovered,4,51-65,High,Long Stay
+372,58,Male,Prostate Cancer,Radiation Therapy,20000,33,No,Recovered,3,51-65,High,Long Stay
+442,60,Female,Appendicitis,Appendectomy,8000,33,Yes,Recovered,3,51-65,Medium,Long Stay
+435,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,33,No,Stable,4,51-65,Low,Long Stay
+452,65,Male,Diabetes,Insulin Therapy,2000,33,No,Stable,3,51-65,Low,Long Stay
+471,72,Male,Hypertension,Medication and Counseling,1000,33,No,Stable,4,66+,Low,Long Stay
+384,75,Female,Heart Attack,Cardiac Catheterization,18000,33,Yes,Stable,2,66+,High,Long Stay
+379,78,Male,Stroke,CT Scan and Medication,10000,33,No,Stable,2,66+,Medium,Long Stay
+505,28,Male,Allergic Reaction,Epinephrine Injection,100,34,No,Recovered,5,19-35,Low,Long Stay
+498,35,Female,Fractured Arm,X-Ray and Splint,500,34,Yes,Recovered,5,19-35,Low,Long Stay
+428,40,Male,Fractured Leg,Cast and Physical Therapy,3000,34,No,Recovered,4,36-50,Low,Long Stay
+457,45,Female,Appendicitis,Appendectomy,8000,34,No,Recovered,3,36-50,Medium,Long Stay
+491,52,Female,Respiratory Infection,Antibiotics and Rest,800,34,No,Stable,4,51-65,Low,Long Stay
+365,55,Female,Cancer,Surgery and Chemotherapy,25000,34,No,Recovered,4,51-65,High,Long Stay
+436,55,Female,Heart Disease,Angioplasty,15000,34,Yes,Recovered,3,51-65,High,Long Stay
+464,55,Male,Kidney Stones,Lithotripsy,6000,34,No,Recovered,3,51-65,Medium,Long Stay
+450,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,34,No,Stable,4,51-65,Low,Long Stay
+467,62,Male,Diabetes,Insulin Therapy,2000,34,No,Stable,4,51-65,Low,Long Stay
+387,67,Male,Prostate Cancer,Radiation Therapy,20000,34,No,Recovered,3,66+,High,Long Stay
+486,68,Male,Hypertension,Medication and Counseling,1000,34,No,Stable,4,66+,Low,Long Stay
+394,70,Male,Stroke,CT Scan and Medication,10000,34,Yes,Stable,2,66+,Medium,Long Stay
+399,78,Female,Heart Attack,Cardiac Catheterization,18000,34,Yes,Stable,2,66+,High,Long Stay
+520,25,Male,Allergic Reaction,Epinephrine Injection,100,35,No,Recovered,5,19-35,Low,Long Stay
+513,30,Female,Fractured Arm,X-Ray and Splint,500,35,No,Recovered,5,19-35,Low,Long Stay
+493,32,Female,Childbirth,Delivery and Postnatal Care,12000,35,No,Recovered,4,19-35,Medium,Long Stay
+443,45,Male,Fractured Leg,Cast and Physical Therapy,3000,35,No,Recovered,4,36-50,Low,Long Stay
+451,48,Female,Heart Disease,Angioplasty,15000,35,Yes,Recovered,4,36-50,High,Long Stay
+479,50,Male,Kidney Stones,Lithotripsy,6000,35,No,Recovered,3,36-50,Medium,Long Stay
+506,52,Female,Respiratory Infection,Antibiotics and Rest,800,35,No,Stable,4,51-65,Low,Long Stay
+380,53,Female,Cancer,Surgery and Chemotherapy,25000,35,Yes,Recovered,4,51-65,High,Long Stay
+402,58,Male,Prostate Cancer,Radiation Therapy,20000,35,No,Recovered,3,51-65,High,Long Stay
+472,60,Female,Appendicitis,Appendectomy,8000,35,Yes,Recovered,3,51-65,Medium,Long Stay
+465,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,35,No,Stable,4,51-65,Low,Long Stay
+482,65,Male,Diabetes,Insulin Therapy,2000,35,No,Stable,3,51-65,Low,Long Stay
+501,72,Male,Hypertension,Medication and Counseling,1000,35,No,Stable,4,66+,Low,Long Stay
+414,75,Female,Heart Attack,Cardiac Catheterization,18000,35,Yes,Stable,2,66+,High,Long Stay
+409,78,Male,Stroke,CT Scan and Medication,10000,35,No,Stable,2,66+,Medium,Long Stay
+535,28,Male,Allergic Reaction,Epinephrine Injection,100,36,No,Recovered,5,19-35,Low,Long Stay
+508,35,Female,Childbirth,Delivery and Postnatal Care,12000,36,No,Recovered,4,19-35,Medium,Long Stay
+528,35,Female,Fractured Arm,X-Ray and Splint,500,36,Yes,Recovered,5,19-35,Low,Long Stay
+458,40,Male,Fractured Leg,Cast and Physical Therapy,3000,36,No,Recovered,4,36-50,Low,Long Stay
+487,45,Female,Appendicitis,Appendectomy,8000,36,No,Recovered,3,36-50,Medium,Long Stay
+521,52,Female,Respiratory Infection,Antibiotics and Rest,800,36,No,Stable,4,51-65,Low,Long Stay
+395,55,Female,Cancer,Surgery and Chemotherapy,25000,36,No,Recovered,4,51-65,High,Long Stay
+466,55,Female,Heart Disease,Angioplasty,15000,36,Yes,Recovered,3,51-65,High,Long Stay
+494,55,Male,Kidney Stones,Lithotripsy,6000,36,No,Recovered,3,51-65,Medium,Long Stay
+480,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,36,No,Stable,4,51-65,Low,Long Stay
+497,62,Male,Diabetes,Insulin Therapy,2000,36,No,Stable,4,51-65,Low,Long Stay
+516,68,Male,Hypertension,Medication and Counseling,1000,36,No,Stable,4,66+,Low,Long Stay
+424,70,Male,Stroke,CT Scan and Medication,10000,36,Yes,Stable,2,66+,Medium,Long Stay
+429,78,Female,Heart Attack,Cardiac Catheterization,18000,36,Yes,Stable,2,66+,High,Long Stay
+550,25,Male,Allergic Reaction,Epinephrine Injection,100,37,No,Recovered,5,19-35,Low,Long Stay
+543,30,Female,Fractured Arm,X-Ray and Splint,500,37,No,Recovered,5,19-35,Low,Long Stay
+523,32,Female,Childbirth,Delivery and Postnatal Care,12000,37,No,Recovered,4,19-35,Medium,Long Stay
+473,45,Male,Fractured Leg,Cast and Physical Therapy,3000,37,No,Recovered,4,36-50,Low,Long Stay
+481,48,Female,Heart Disease,Angioplasty,15000,37,Yes,Recovered,4,36-50,High,Long Stay
+509,50,Male,Kidney Stones,Lithotripsy,6000,37,No,Recovered,3,36-50,Medium,Long Stay
+536,52,Female,Respiratory Infection,Antibiotics and Rest,800,37,No,Stable,4,51-65,Low,Long Stay
+410,53,Female,Cancer,Surgery and Chemotherapy,25000,37,Yes,Recovered,4,51-65,High,Long Stay
+432,58,Male,Prostate Cancer,Radiation Therapy,20000,37,No,Recovered,3,51-65,High,Long Stay
+502,60,Female,Appendicitis,Appendectomy,8000,37,Yes,Recovered,3,51-65,Medium,Long Stay
+495,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,37,No,Stable,4,51-65,Low,Long Stay
+512,65,Male,Diabetes,Insulin Therapy,2000,37,No,Stable,3,51-65,Low,Long Stay
+444,75,Female,Heart Attack,Cardiac Catheterization,18000,37,Yes,Stable,2,66+,High,Long Stay
+439,78,Male,Stroke,CT Scan and Medication,10000,37,No,Stable,2,66+,Medium,Long Stay
+565,28,Male,Allergic Reaction,Epinephrine Injection,100,38,No,Recovered,5,19-35,Low,Long Stay
+538,35,Female,Childbirth,Delivery and Postnatal Care,12000,38,No,Recovered,4,19-35,Medium,Long Stay
+558,35,Female,Fractured Arm,X-Ray and Splint,500,38,Yes,Recovered,5,19-35,Low,Long Stay
+488,40,Male,Fractured Leg,Cast and Physical Therapy,3000,38,No,Recovered,4,36-50,Low,Long Stay
+517,45,Female,Appendicitis,Appendectomy,8000,38,No,Recovered,3,36-50,Medium,Long Stay
+551,52,Female,Respiratory Infection,Antibiotics and Rest,800,38,No,Stable,4,51-65,Low,Long Stay
+425,55,Female,Cancer,Surgery and Chemotherapy,25000,38,No,Recovered,4,51-65,High,Long Stay
+496,55,Female,Heart Disease,Angioplasty,15000,38,Yes,Recovered,3,51-65,High,Long Stay
+524,55,Male,Kidney Stones,Lithotripsy,6000,38,No,Recovered,3,51-65,Medium,Long Stay
+510,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,38,No,Stable,4,51-65,Low,Long Stay
+527,62,Male,Diabetes,Insulin Therapy,2000,38,No,Stable,4,51-65,Low,Long Stay
+447,67,Male,Prostate Cancer,Radiation Therapy,20000,38,No,Recovered,3,66+,High,Long Stay
+454,70,Male,Stroke,CT Scan and Medication,10000,38,Yes,Stable,2,66+,Medium,Long Stay
+531,72,Male,Hypertension,Medication and Counseling,1000,38,No,Stable,4,66+,Low,Long Stay
+459,78,Female,Heart Attack,Cardiac Catheterization,18000,38,Yes,Stable,2,66+,High,Long Stay
+580,25,Male,Allergic Reaction,Epinephrine Injection,100,39,No,Recovered,5,19-35,Low,Long Stay
+573,30,Female,Fractured Arm,X-Ray and Splint,500,39,No,Recovered,5,19-35,Low,Long Stay
+553,32,Female,Childbirth,Delivery and Postnatal Care,12000,39,No,Recovered,4,19-35,Medium,Long Stay
+503,45,Male,Fractured Leg,Cast and Physical Therapy,3000,39,No,Recovered,4,36-50,Low,Long Stay
+511,48,Female,Heart Disease,Angioplasty,15000,39,Yes,Recovered,4,36-50,High,Long Stay
+566,52,Female,Respiratory Infection,Antibiotics and Rest,800,39,No,Stable,4,51-65,Low,Long Stay
+440,53,Female,Cancer,Surgery and Chemotherapy,25000,39,Yes,Recovered,4,51-65,High,Long Stay
+462,58,Male,Prostate Cancer,Radiation Therapy,20000,39,No,Recovered,3,51-65,High,Long Stay
+532,60,Female,Appendicitis,Appendectomy,8000,39,Yes,Recovered,3,51-65,Medium,Long Stay
+525,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,39,No,Stable,4,51-65,Low,Long Stay
+542,65,Male,Diabetes,Insulin Therapy,2000,39,No,Stable,3,51-65,Low,Long Stay
+474,75,Female,Heart Attack,Cardiac Catheterization,18000,39,Yes,Stable,2,66+,High,Long Stay
+469,78,Male,Stroke,CT Scan and Medication,10000,39,No,Stable,2,66+,Medium,Long Stay
+595,28,Male,Allergic Reaction,Epinephrine Injection,100,40,No,Recovered,5,19-35,Low,Long Stay
+568,35,Female,Childbirth,Delivery and Postnatal Care,12000,40,No,Recovered,4,19-35,Medium,Long Stay
+588,35,Female,Fractured Arm,X-Ray and Splint,500,40,Yes,Recovered,5,19-35,Low,Long Stay
+518,40,Male,Fractured Leg,Cast and Physical Therapy,3000,40,No,Recovered,4,36-50,Low,Long Stay
+581,52,Female,Respiratory Infection,Antibiotics and Rest,800,40,No,Stable,4,51-65,Low,Long Stay
+455,55,Female,Cancer,Surgery and Chemotherapy,25000,40,No,Recovered,4,51-65,High,Long Stay
+526,55,Female,Heart Disease,Angioplasty,15000,40,Yes,Recovered,3,51-65,High,Long Stay
+554,55,Male,Kidney Stones,Lithotripsy,6000,40,No,Recovered,3,51-65,Medium,Long Stay
+540,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,40,No,Stable,4,51-65,Low,Long Stay
+557,62,Male,Diabetes,Insulin Therapy,2000,40,No,Stable,4,51-65,Low,Long Stay
+477,67,Male,Prostate Cancer,Radiation Therapy,20000,40,No,Recovered,3,66+,High,Long Stay
+546,68,Male,Hypertension,Medication and Counseling,1000,40,No,Stable,4,66+,Low,Long Stay
+484,70,Male,Stroke,CT Scan and Medication,10000,40,Yes,Stable,2,66+,Medium,Long Stay
+489,78,Female,Heart Attack,Cardiac Catheterization,18000,40,Yes,Stable,2,66+,High,Long Stay
+610,25,Male,Allergic Reaction,Epinephrine Injection,100,41,No,Recovered,5,19-35,Low,Long Stay
+603,30,Female,Fractured Arm,X-Ray and Splint,500,41,No,Recovered,5,19-35,Low,Long Stay
+583,32,Female,Childbirth,Delivery and Postnatal Care,12000,41,No,Recovered,4,19-35,Medium,Long Stay
+533,45,Male,Fractured Leg,Cast and Physical Therapy,3000,41,No,Recovered,4,36-50,Low,Long Stay
+541,48,Female,Heart Disease,Angioplasty,15000,41,Yes,Recovered,4,36-50,High,Long Stay
+569,50,Male,Kidney Stones,Lithotripsy,6000,41,No,Recovered,3,36-50,Medium,Long Stay
+596,52,Female,Respiratory Infection,Antibiotics and Rest,800,41,No,Stable,4,51-65,Low,Long Stay
+470,53,Female,Cancer,Surgery and Chemotherapy,25000,41,Yes,Recovered,4,51-65,High,Long Stay
+492,58,Male,Prostate Cancer,Radiation Therapy,20000,41,No,Recovered,3,51-65,High,Long Stay
+555,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,41,No,Stable,4,51-65,Low,Long Stay
+572,65,Male,Diabetes,Insulin Therapy,2000,41,No,Stable,3,51-65,Low,Long Stay
+561,72,Male,Hypertension,Medication and Counseling,1000,41,No,Stable,4,66+,Low,Long Stay
+504,75,Female,Heart Attack,Cardiac Catheterization,18000,41,Yes,Stable,2,66+,High,Long Stay
+499,78,Male,Stroke,CT Scan and Medication,10000,41,No,Stable,2,66+,Medium,Long Stay
+625,28,Male,Allergic Reaction,Epinephrine Injection,100,42,No,Recovered,5,19-35,Low,Long Stay
+598,35,Female,Childbirth,Delivery and Postnatal Care,12000,42,No,Recovered,4,19-35,Medium,Long Stay
+618,35,Female,Fractured Arm,X-Ray and Splint,500,42,Yes,Recovered,5,19-35,Low,Long Stay
+548,40,Male,Fractured Leg,Cast and Physical Therapy,3000,42,No,Recovered,4,36-50,Low,Long Stay
+547,45,Female,Appendicitis,Appendectomy,8000,42,No,Recovered,3,36-50,Medium,Long Stay
+611,52,Female,Respiratory Infection,Antibiotics and Rest,800,42,No,Stable,4,51-65,Low,Long Stay
+485,55,Female,Cancer,Surgery and Chemotherapy,25000,42,No,Recovered,4,51-65,High,Long Stay
+556,55,Female,Heart Disease,Angioplasty,15000,42,Yes,Recovered,3,51-65,High,Long Stay
+584,55,Male,Kidney Stones,Lithotripsy,6000,42,No,Recovered,3,51-65,Medium,Long Stay
+570,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,42,No,Stable,4,51-65,Low,Long Stay
+587,62,Male,Diabetes,Insulin Therapy,2000,42,No,Stable,4,51-65,Low,Long Stay
+507,67,Male,Prostate Cancer,Radiation Therapy,20000,42,No,Recovered,3,66+,High,Long Stay
+576,68,Male,Hypertension,Medication and Counseling,1000,42,No,Stable,4,66+,Low,Long Stay
+514,70,Male,Stroke,CT Scan and Medication,10000,42,Yes,Stable,2,66+,Medium,Long Stay
+519,78,Female,Heart Attack,Cardiac Catheterization,18000,42,Yes,Stable,2,66+,High,Long Stay
+640,25,Male,Allergic Reaction,Epinephrine Injection,100,43,No,Recovered,5,19-35,Low,Long Stay
+633,30,Female,Fractured Arm,X-Ray and Splint,500,43,No,Recovered,5,19-35,Low,Long Stay
+613,32,Female,Childbirth,Delivery and Postnatal Care,12000,43,No,Recovered,4,19-35,Medium,Long Stay
+563,45,Male,Fractured Leg,Cast and Physical Therapy,3000,43,No,Recovered,4,36-50,Low,Long Stay
+571,48,Female,Heart Disease,Angioplasty,15000,43,Yes,Recovered,4,36-50,High,Long Stay
+599,50,Male,Kidney Stones,Lithotripsy,6000,43,No,Recovered,3,36-50,Medium,Long Stay
+626,52,Female,Respiratory Infection,Antibiotics and Rest,800,43,No,Stable,4,51-65,Low,Long Stay
+500,53,Female,Cancer,Surgery and Chemotherapy,25000,43,Yes,Recovered,4,51-65,High,Long Stay
+522,58,Male,Prostate Cancer,Radiation Therapy,20000,43,No,Recovered,3,51-65,High,Long Stay
+562,60,Female,Appendicitis,Appendectomy,8000,43,Yes,Recovered,3,51-65,Medium,Long Stay
+585,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,43,No,Stable,4,51-65,Low,Long Stay
+602,65,Male,Diabetes,Insulin Therapy,2000,43,No,Stable,3,51-65,Low,Long Stay
+591,72,Male,Hypertension,Medication and Counseling,1000,43,No,Stable,4,66+,Low,Long Stay
+534,75,Female,Heart Attack,Cardiac Catheterization,18000,43,Yes,Stable,2,66+,High,Long Stay
+529,78,Male,Stroke,CT Scan and Medication,10000,43,No,Stable,2,66+,Medium,Long Stay
+655,28,Male,Allergic Reaction,Epinephrine Injection,100,44,No,Recovered,5,19-35,Low,Long Stay
+628,35,Female,Childbirth,Delivery and Postnatal Care,12000,44,No,Recovered,4,19-35,Medium,Long Stay
+648,35,Female,Fractured Arm,X-Ray and Splint,500,44,Yes,Recovered,5,19-35,Low,Long Stay
+578,40,Male,Fractured Leg,Cast and Physical Therapy,3000,44,No,Recovered,4,36-50,Low,Long Stay
+577,45,Female,Appendicitis,Appendectomy,8000,44,No,Recovered,3,36-50,Medium,Long Stay
+641,52,Female,Respiratory Infection,Antibiotics and Rest,800,44,No,Stable,4,51-65,Low,Long Stay
+515,55,Female,Cancer,Surgery and Chemotherapy,25000,44,No,Recovered,4,51-65,High,Long Stay
+586,55,Female,Heart Disease,Angioplasty,15000,44,Yes,Recovered,3,51-65,High,Long Stay
+614,55,Male,Kidney Stones,Lithotripsy,6000,44,No,Recovered,3,51-65,Medium,Long Stay
+617,62,Male,Diabetes,Insulin Therapy,2000,44,No,Stable,4,51-65,Low,Long Stay
+537,67,Male,Prostate Cancer,Radiation Therapy,20000,44,No,Recovered,3,66+,High,Long Stay
+606,68,Male,Hypertension,Medication and Counseling,1000,44,No,Stable,4,66+,Low,Long Stay
+544,70,Male,Stroke,CT Scan and Medication,10000,44,Yes,Stable,2,66+,Medium,Long Stay
+549,78,Female,Heart Attack,Cardiac Catheterization,18000,44,Yes,Stable,2,66+,High,Long Stay
+670,25,Male,Allergic Reaction,Epinephrine Injection,100,45,No,Recovered,5,19-35,Low,Long Stay
+663,30,Female,Fractured Arm,X-Ray and Splint,500,45,No,Recovered,5,19-35,Low,Long Stay
+643,32,Female,Childbirth,Delivery and Postnatal Care,12000,45,No,Recovered,4,19-35,Medium,Long Stay
+593,45,Male,Fractured Leg,Cast and Physical Therapy,3000,45,No,Recovered,4,36-50,Low,Long Stay
+601,48,Female,Heart Disease,Angioplasty,15000,45,Yes,Recovered,4,36-50,High,Long Stay
+629,50,Male,Kidney Stones,Lithotripsy,6000,45,No,Recovered,3,36-50,Medium,Long Stay
+656,52,Female,Respiratory Infection,Antibiotics and Rest,800,45,No,Stable,4,51-65,Low,Long Stay
+530,53,Female,Cancer,Surgery and Chemotherapy,25000,45,Yes,Recovered,4,51-65,High,Long Stay
+552,58,Male,Prostate Cancer,Radiation Therapy,20000,45,No,Recovered,3,51-65,High,Long Stay
+592,60,Female,Appendicitis,Appendectomy,8000,45,Yes,Recovered,3,51-65,Medium,Long Stay
+615,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,45,No,Stable,4,51-65,Low,Long Stay
+632,65,Male,Diabetes,Insulin Therapy,2000,45,No,Stable,3,51-65,Low,Long Stay
+621,72,Male,Hypertension,Medication and Counseling,1000,45,No,Stable,4,66+,Low,Long Stay
+564,75,Female,Heart Attack,Cardiac Catheterization,18000,45,Yes,Stable,2,66+,High,Long Stay
+559,78,Male,Stroke,CT Scan and Medication,10000,45,No,Stable,2,66+,Medium,Long Stay
+685,28,Male,Allergic Reaction,Epinephrine Injection,100,46,No,Recovered,5,19-35,Low,Long Stay
+658,35,Female,Childbirth,Delivery and Postnatal Care,12000,46,No,Recovered,4,19-35,Medium,Long Stay
+678,35,Female,Fractured Arm,X-Ray and Splint,500,46,Yes,Recovered,5,19-35,Low,Long Stay
+608,40,Male,Fractured Leg,Cast and Physical Therapy,3000,46,No,Recovered,4,36-50,Low,Long Stay
+607,45,Female,Appendicitis,Appendectomy,8000,46,No,Recovered,3,36-50,Medium,Long Stay
+671,52,Female,Respiratory Infection,Antibiotics and Rest,800,46,No,Stable,4,51-65,Low,Long Stay
+545,55,Female,Cancer,Surgery and Chemotherapy,25000,46,No,Recovered,4,51-65,High,Long Stay
+616,55,Female,Heart Disease,Angioplasty,15000,46,Yes,Recovered,3,51-65,High,Long Stay
+644,55,Male,Kidney Stones,Lithotripsy,6000,46,No,Recovered,3,51-65,Medium,Long Stay
+630,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,46,No,Stable,4,51-65,Low,Long Stay
+647,62,Male,Diabetes,Insulin Therapy,2000,46,No,Stable,4,51-65,Low,Long Stay
+567,67,Male,Prostate Cancer,Radiation Therapy,20000,46,No,Recovered,3,66+,High,Long Stay
+636,68,Male,Hypertension,Medication and Counseling,1000,46,No,Stable,4,66+,Low,Long Stay
+574,70,Male,Stroke,CT Scan and Medication,10000,46,Yes,Stable,2,66+,Medium,Long Stay
+579,78,Female,Heart Attack,Cardiac Catheterization,18000,46,Yes,Stable,2,66+,High,Long Stay
+700,25,Male,Allergic Reaction,Epinephrine Injection,100,47,No,Recovered,5,19-35,Low,Long Stay
+693,30,Female,Fractured Arm,X-Ray and Splint,500,47,No,Recovered,5,19-35,Low,Long Stay
+673,32,Female,Childbirth,Delivery and Postnatal Care,12000,47,No,Recovered,4,19-35,Medium,Long Stay
+623,45,Male,Fractured Leg,Cast and Physical Therapy,3000,47,No,Recovered,4,36-50,Low,Long Stay
+631,48,Female,Heart Disease,Angioplasty,15000,47,Yes,Recovered,4,36-50,High,Long Stay
+659,50,Male,Kidney Stones,Lithotripsy,6000,47,No,Recovered,3,36-50,Medium,Long Stay
+686,52,Female,Respiratory Infection,Antibiotics and Rest,800,47,No,Stable,4,51-65,Low,Long Stay
+560,53,Female,Cancer,Surgery and Chemotherapy,25000,47,Yes,Recovered,4,51-65,High,Long Stay
+582,58,Male,Prostate Cancer,Radiation Therapy,20000,47,No,Recovered,3,51-65,High,Long Stay
+622,60,Female,Appendicitis,Appendectomy,8000,47,Yes,Recovered,3,51-65,Medium,Long Stay
+645,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,47,No,Stable,4,51-65,Low,Long Stay
+662,65,Male,Diabetes,Insulin Therapy,2000,47,No,Stable,3,51-65,Low,Long Stay
+651,72,Male,Hypertension,Medication and Counseling,1000,47,No,Stable,4,66+,Low,Long Stay
+594,75,Female,Heart Attack,Cardiac Catheterization,18000,47,Yes,Stable,2,66+,High,Long Stay
+589,78,Male,Stroke,CT Scan and Medication,10000,47,No,Stable,2,66+,Medium,Long Stay
+715,28,Male,Allergic Reaction,Epinephrine Injection,100,48,No,Recovered,5,19-35,Low,Long Stay
+688,35,Female,Childbirth,Delivery and Postnatal Care,12000,48,No,Recovered,4,19-35,Medium,Long Stay
+708,35,Female,Fractured Arm,X-Ray and Splint,500,48,Yes,Recovered,5,19-35,Low,Long Stay
+638,40,Male,Fractured Leg,Cast and Physical Therapy,3000,48,No,Recovered,4,36-50,Low,Long Stay
+637,45,Female,Appendicitis,Appendectomy,8000,48,No,Recovered,3,36-50,Medium,Long Stay
+701,52,Female,Respiratory Infection,Antibiotics and Rest,800,48,No,Stable,4,51-65,Low,Long Stay
+575,55,Female,Cancer,Surgery and Chemotherapy,25000,48,No,Recovered,4,51-65,High,Long Stay
+646,55,Female,Heart Disease,Angioplasty,15000,48,Yes,Recovered,3,51-65,High,Long Stay
+674,55,Male,Kidney Stones,Lithotripsy,6000,48,No,Recovered,3,51-65,Medium,Long Stay
+660,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,48,No,Stable,4,51-65,Low,Long Stay
+677,62,Male,Diabetes,Insulin Therapy,2000,48,No,Stable,4,51-65,Low,Long Stay
+597,67,Male,Prostate Cancer,Radiation Therapy,20000,48,No,Recovered,3,66+,High,Long Stay
+666,68,Male,Hypertension,Medication and Counseling,1000,48,No,Stable,4,66+,Low,Long Stay
+604,70,Male,Stroke,CT Scan and Medication,10000,48,Yes,Stable,2,66+,Medium,Long Stay
+609,78,Female,Heart Attack,Cardiac Catheterization,18000,48,Yes,Stable,2,66+,High,Long Stay
+730,25,Male,Allergic Reaction,Epinephrine Injection,100,49,No,Recovered,5,19-35,Low,Long Stay
+723,30,Female,Fractured Arm,X-Ray and Splint,500,49,No,Recovered,5,19-35,Low,Long Stay
+703,32,Female,Childbirth,Delivery and Postnatal Care,12000,49,No,Recovered,4,19-35,Medium,Long Stay
+653,45,Male,Fractured Leg,Cast and Physical Therapy,3000,49,No,Recovered,4,36-50,Low,Long Stay
+689,50,Male,Kidney Stones,Lithotripsy,6000,49,No,Recovered,3,36-50,Medium,Long Stay
+716,52,Female,Respiratory Infection,Antibiotics and Rest,800,49,No,Stable,4,51-65,Low,Long Stay
+590,53,Female,Cancer,Surgery and Chemotherapy,25000,49,Yes,Recovered,4,51-65,High,Long Stay
+612,58,Male,Prostate Cancer,Radiation Therapy,20000,49,No,Recovered,3,51-65,High,Long Stay
+652,60,Female,Appendicitis,Appendectomy,8000,49,Yes,Recovered,3,51-65,Medium,Long Stay
+675,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,49,No,Stable,4,51-65,Low,Long Stay
+692,65,Male,Diabetes,Insulin Therapy,2000,49,No,Stable,3,51-65,Low,Long Stay
+681,72,Male,Hypertension,Medication and Counseling,1000,49,No,Stable,4,66+,Low,Long Stay
+624,75,Female,Heart Attack,Cardiac Catheterization,18000,49,Yes,Stable,2,66+,High,Long Stay
+619,78,Male,Stroke,CT Scan and Medication,10000,49,No,Stable,2,66+,Medium,Long Stay
+745,28,Male,Allergic Reaction,Epinephrine Injection,100,50,No,Recovered,5,19-35,Low,Long Stay
+718,35,Female,Childbirth,Delivery and Postnatal Care,12000,50,No,Recovered,4,19-35,Medium,Long Stay
+738,35,Female,Fractured Arm,X-Ray and Splint,500,50,Yes,Recovered,5,19-35,Low,Long Stay
+668,40,Male,Fractured Leg,Cast and Physical Therapy,3000,50,No,Recovered,4,36-50,Low,Long Stay
+667,45,Female,Appendicitis,Appendectomy,8000,50,No,Recovered,3,36-50,Medium,Long Stay
+731,52,Female,Respiratory Infection,Antibiotics and Rest,800,50,No,Stable,4,51-65,Low,Long Stay
+605,55,Female,Cancer,Surgery and Chemotherapy,25000,50,No,Recovered,4,51-65,High,Long Stay
+676,55,Female,Heart Disease,Angioplasty,15000,50,Yes,Recovered,3,51-65,High,Long Stay
+704,55,Male,Kidney Stones,Lithotripsy,6000,50,No,Recovered,3,51-65,Medium,Long Stay
+690,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,50,No,Stable,4,51-65,Low,Long Stay
+707,62,Male,Diabetes,Insulin Therapy,2000,50,No,Stable,4,51-65,Low,Long Stay
+627,67,Male,Prostate Cancer,Radiation Therapy,20000,50,No,Recovered,3,66+,High,Long Stay
+696,68,Male,Hypertension,Medication and Counseling,1000,50,No,Stable,4,66+,Low,Long Stay
+634,70,Male,Stroke,CT Scan and Medication,10000,50,Yes,Stable,2,66+,Medium,Long Stay
+639,78,Female,Heart Attack,Cardiac Catheterization,18000,50,Yes,Stable,2,66+,High,Long Stay
+760,25,Male,Allergic Reaction,Epinephrine Injection,100,51,No,Recovered,5,19-35,Low,Long Stay
+753,30,Female,Fractured Arm,X-Ray and Splint,500,51,No,Recovered,5,19-35,Low,Long Stay
+733,32,Female,Childbirth,Delivery and Postnatal Care,12000,51,No,Recovered,4,19-35,Medium,Long Stay
+683,45,Male,Fractured Leg,Cast and Physical Therapy,3000,51,No,Recovered,4,36-50,Low,Long Stay
+691,48,Female,Heart Disease,Angioplasty,15000,51,Yes,Recovered,4,36-50,High,Long Stay
+719,50,Male,Kidney Stones,Lithotripsy,6000,51,No,Recovered,3,36-50,Medium,Long Stay
+746,52,Female,Respiratory Infection,Antibiotics and Rest,800,51,No,Stable,4,51-65,Low,Long Stay
+620,53,Female,Cancer,Surgery and Chemotherapy,25000,51,Yes,Recovered,4,51-65,High,Long Stay
+642,58,Male,Prostate Cancer,Radiation Therapy,20000,51,No,Recovered,3,51-65,High,Long Stay
+682,60,Female,Appendicitis,Appendectomy,8000,51,Yes,Recovered,3,51-65,Medium,Long Stay
+705,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,51,No,Stable,4,51-65,Low,Long Stay
+711,72,Male,Hypertension,Medication and Counseling,1000,51,No,Stable,4,66+,Low,Long Stay
+654,75,Female,Heart Attack,Cardiac Catheterization,18000,51,Yes,Stable,2,66+,High,Long Stay
+649,78,Male,Stroke,CT Scan and Medication,10000,51,No,Stable,2,66+,Medium,Long Stay
+775,28,Male,Allergic Reaction,Epinephrine Injection,100,52,No,Recovered,5,19-35,Low,Long Stay
+748,35,Female,Childbirth,Delivery and Postnatal Care,12000,52,No,Recovered,4,19-35,Medium,Long Stay
+768,35,Female,Fractured Arm,X-Ray and Splint,500,52,Yes,Recovered,5,19-35,Low,Long Stay
+698,40,Male,Fractured Leg,Cast and Physical Therapy,3000,52,No,Recovered,4,36-50,Low,Long Stay
+697,45,Female,Appendicitis,Appendectomy,8000,52,No,Recovered,3,36-50,Medium,Long Stay
+761,52,Female,Respiratory Infection,Antibiotics and Rest,800,52,No,Stable,4,51-65,Low,Long Stay
+635,55,Female,Cancer,Surgery and Chemotherapy,25000,52,No,Recovered,4,51-65,High,Long Stay
+706,55,Female,Heart Disease,Angioplasty,15000,52,Yes,Recovered,3,51-65,High,Long Stay
+734,55,Male,Kidney Stones,Lithotripsy,6000,52,No,Recovered,3,51-65,Medium,Long Stay
+720,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,52,No,Stable,4,51-65,Low,Long Stay
+737,62,Male,Diabetes,Insulin Therapy,2000,52,No,Stable,4,51-65,Low,Long Stay
+657,67,Male,Prostate Cancer,Radiation Therapy,20000,52,No,Recovered,3,66+,High,Long Stay
+726,68,Male,Hypertension,Medication and Counseling,1000,52,No,Stable,4,66+,Low,Long Stay
+664,70,Male,Stroke,CT Scan and Medication,10000,52,Yes,Stable,2,66+,Medium,Long Stay
+669,78,Female,Heart Attack,Cardiac Catheterization,18000,52,Yes,Stable,2,66+,High,Long Stay
+790,25,Male,Allergic Reaction,Epinephrine Injection,100,53,No,Recovered,5,19-35,Low,Long Stay
+783,30,Female,Fractured Arm,X-Ray and Splint,500,53,No,Recovered,5,19-35,Low,Long Stay
+763,32,Female,Childbirth,Delivery and Postnatal Care,12000,53,No,Recovered,4,19-35,Medium,Long Stay
+713,45,Male,Fractured Leg,Cast and Physical Therapy,3000,53,No,Recovered,4,36-50,Low,Long Stay
+721,48,Female,Heart Disease,Angioplasty,15000,53,Yes,Recovered,4,36-50,High,Long Stay
+749,50,Male,Kidney Stones,Lithotripsy,6000,53,No,Recovered,3,36-50,Medium,Long Stay
+776,52,Female,Respiratory Infection,Antibiotics and Rest,800,53,No,Stable,4,51-65,Low,Long Stay
+650,53,Female,Cancer,Surgery and Chemotherapy,25000,53,Yes,Recovered,4,51-65,High,Long Stay
+672,58,Male,Prostate Cancer,Radiation Therapy,20000,53,No,Recovered,3,51-65,High,Long Stay
+712,60,Female,Appendicitis,Appendectomy,8000,53,Yes,Recovered,3,51-65,Medium,Long Stay
+735,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,53,No,Stable,4,51-65,Low,Long Stay
+752,65,Male,Diabetes,Insulin Therapy,2000,53,No,Stable,3,51-65,Low,Long Stay
+741,72,Male,Hypertension,Medication and Counseling,1000,53,No,Stable,4,66+,Low,Long Stay
+684,75,Female,Heart Attack,Cardiac Catheterization,18000,53,Yes,Stable,2,66+,High,Long Stay
+679,78,Male,Stroke,CT Scan and Medication,10000,53,No,Stable,2,66+,Medium,Long Stay
+805,28,Male,Allergic Reaction,Epinephrine Injection,100,54,No,Recovered,5,19-35,Low,Long Stay
+778,35,Female,Childbirth,Delivery and Postnatal Care,12000,54,No,Recovered,4,19-35,Medium,Long Stay
+798,35,Female,Fractured Arm,X-Ray and Splint,500,54,Yes,Recovered,5,19-35,Low,Long Stay
+728,40,Male,Fractured Leg,Cast and Physical Therapy,3000,54,No,Recovered,4,36-50,Low,Long Stay
+727,45,Female,Appendicitis,Appendectomy,8000,54,No,Recovered,3,36-50,Medium,Long Stay
+791,52,Female,Respiratory Infection,Antibiotics and Rest,800,54,No,Stable,4,51-65,Low,Long Stay
+665,55,Female,Cancer,Surgery and Chemotherapy,25000,54,No,Recovered,4,51-65,High,Long Stay
+736,55,Female,Heart Disease,Angioplasty,15000,54,Yes,Recovered,3,51-65,High,Long Stay
+764,55,Male,Kidney Stones,Lithotripsy,6000,54,No,Recovered,3,51-65,Medium,Long Stay
+750,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,54,No,Stable,4,51-65,Low,Long Stay
+767,62,Male,Diabetes,Insulin Therapy,2000,54,No,Stable,4,51-65,Low,Long Stay
+687,67,Male,Prostate Cancer,Radiation Therapy,20000,54,No,Recovered,3,66+,High,Long Stay
+756,68,Male,Hypertension,Medication and Counseling,1000,54,No,Stable,4,66+,Low,Long Stay
+694,70,Male,Stroke,CT Scan and Medication,10000,54,Yes,Stable,2,66+,Medium,Long Stay
+699,78,Female,Heart Attack,Cardiac Catheterization,18000,54,Yes,Stable,2,66+,High,Long Stay
+820,25,Male,Allergic Reaction,Epinephrine Injection,100,55,No,Recovered,5,19-35,Low,Long Stay
+813,30,Female,Fractured Arm,X-Ray and Splint,500,55,No,Recovered,5,19-35,Low,Long Stay
+793,32,Female,Childbirth,Delivery and Postnatal Care,12000,55,No,Recovered,4,19-35,Medium,Long Stay
+743,45,Male,Fractured Leg,Cast and Physical Therapy,3000,55,No,Recovered,4,36-50,Low,Long Stay
+751,48,Female,Heart Disease,Angioplasty,15000,55,Yes,Recovered,4,36-50,High,Long Stay
+779,50,Male,Kidney Stones,Lithotripsy,6000,55,No,Recovered,3,36-50,Medium,Long Stay
+806,52,Female,Respiratory Infection,Antibiotics and Rest,800,55,No,Stable,4,51-65,Low,Long Stay
+680,53,Female,Cancer,Surgery and Chemotherapy,25000,55,Yes,Recovered,4,51-65,High,Long Stay
+702,58,Male,Prostate Cancer,Radiation Therapy,20000,55,No,Recovered,3,51-65,High,Long Stay
+742,60,Female,Appendicitis,Appendectomy,8000,55,Yes,Recovered,3,51-65,Medium,Long Stay
+765,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,55,No,Stable,4,51-65,Low,Long Stay
+782,65,Male,Diabetes,Insulin Therapy,2000,55,No,Stable,3,51-65,Low,Long Stay
+771,72,Male,Hypertension,Medication and Counseling,1000,55,No,Stable,4,66+,Low,Long Stay
+714,75,Female,Heart Attack,Cardiac Catheterization,18000,55,Yes,Stable,2,66+,High,Long Stay
+709,78,Male,Stroke,CT Scan and Medication,10000,55,No,Stable,2,66+,Medium,Long Stay
+835,28,Male,Allergic Reaction,Epinephrine Injection,100,56,No,Recovered,5,19-35,Low,Long Stay
+808,35,Female,Childbirth,Delivery and Postnatal Care,12000,56,No,Recovered,4,19-35,Medium,Long Stay
+828,35,Female,Fractured Arm,X-Ray and Splint,500,56,Yes,Recovered,5,19-35,Low,Long Stay
+758,40,Male,Fractured Leg,Cast and Physical Therapy,3000,56,No,Recovered,4,36-50,Low,Long Stay
+757,45,Female,Appendicitis,Appendectomy,8000,56,No,Recovered,3,36-50,Medium,Long Stay
+821,52,Female,Respiratory Infection,Antibiotics and Rest,800,56,No,Stable,4,51-65,Low,Long Stay
+695,55,Female,Cancer,Surgery and Chemotherapy,25000,56,No,Recovered,4,51-65,High,Long Stay
+766,55,Female,Heart Disease,Angioplasty,15000,56,Yes,Recovered,3,51-65,High,Long Stay
+794,55,Male,Kidney Stones,Lithotripsy,6000,56,No,Recovered,3,51-65,Medium,Long Stay
+780,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,56,No,Stable,4,51-65,Low,Long Stay
+797,62,Male,Diabetes,Insulin Therapy,2000,56,No,Stable,4,51-65,Low,Long Stay
+717,67,Male,Prostate Cancer,Radiation Therapy,20000,56,No,Recovered,3,66+,High,Long Stay
+786,68,Male,Hypertension,Medication and Counseling,1000,56,No,Stable,4,66+,Low,Long Stay
+724,70,Male,Stroke,CT Scan and Medication,10000,56,Yes,Stable,2,66+,Medium,Long Stay
+729,78,Female,Heart Attack,Cardiac Catheterization,18000,56,Yes,Stable,2,66+,High,Long Stay
+850,25,Male,Allergic Reaction,Epinephrine Injection,100,57,No,Recovered,5,19-35,Low,Long Stay
+843,30,Female,Fractured Arm,X-Ray and Splint,500,57,No,Recovered,5,19-35,Low,Long Stay
+823,32,Female,Childbirth,Delivery and Postnatal Care,12000,57,No,Recovered,4,19-35,Medium,Long Stay
+773,45,Male,Fractured Leg,Cast and Physical Therapy,3000,57,No,Recovered,4,36-50,Low,Long Stay
+781,48,Female,Heart Disease,Angioplasty,15000,57,Yes,Recovered,4,36-50,High,Long Stay
+809,50,Male,Kidney Stones,Lithotripsy,6000,57,No,Recovered,3,36-50,Medium,Long Stay
+836,52,Female,Respiratory Infection,Antibiotics and Rest,800,57,No,Stable,4,51-65,Low,Long Stay
+710,53,Female,Cancer,Surgery and Chemotherapy,25000,57,Yes,Recovered,4,51-65,High,Long Stay
+732,58,Male,Prostate Cancer,Radiation Therapy,20000,57,No,Recovered,3,51-65,High,Long Stay
+772,60,Female,Appendicitis,Appendectomy,8000,57,Yes,Recovered,3,51-65,Medium,Long Stay
+795,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,57,No,Stable,4,51-65,Low,Long Stay
+812,65,Male,Diabetes,Insulin Therapy,2000,57,No,Stable,3,51-65,Low,Long Stay
+801,72,Male,Hypertension,Medication and Counseling,1000,57,No,Stable,4,66+,Low,Long Stay
+744,75,Female,Heart Attack,Cardiac Catheterization,18000,57,Yes,Stable,2,66+,High,Long Stay
+739,78,Male,Stroke,CT Scan and Medication,10000,57,No,Stable,2,66+,Medium,Long Stay
+865,28,Male,Allergic Reaction,Epinephrine Injection,100,58,No,Recovered,5,19-35,Low,Long Stay
+838,35,Female,Childbirth,Delivery and Postnatal Care,12000,58,No,Recovered,4,19-35,Medium,Long Stay
+858,35,Female,Fractured Arm,X-Ray and Splint,500,58,Yes,Recovered,5,19-35,Low,Long Stay
+788,40,Male,Fractured Leg,Cast and Physical Therapy,3000,58,No,Recovered,4,36-50,Low,Long Stay
+787,45,Female,Appendicitis,Appendectomy,8000,58,No,Recovered,3,36-50,Medium,Long Stay
+851,52,Female,Respiratory Infection,Antibiotics and Rest,800,58,No,Stable,4,51-65,Low,Long Stay
+725,55,Female,Cancer,Surgery and Chemotherapy,25000,58,No,Recovered,4,51-65,High,Long Stay
+796,55,Female,Heart Disease,Angioplasty,15000,58,Yes,Recovered,3,51-65,High,Long Stay
+824,55,Male,Kidney Stones,Lithotripsy,6000,58,No,Recovered,3,51-65,Medium,Long Stay
+810,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,58,No,Stable,4,51-65,Low,Long Stay
+827,62,Male,Diabetes,Insulin Therapy,2000,58,No,Stable,4,51-65,Low,Long Stay
+747,67,Male,Prostate Cancer,Radiation Therapy,20000,58,No,Recovered,3,66+,High,Long Stay
+816,68,Male,Hypertension,Medication and Counseling,1000,58,No,Stable,4,66+,Low,Long Stay
+754,70,Male,Stroke,CT Scan and Medication,10000,58,Yes,Stable,2,66+,Medium,Long Stay
+759,78,Female,Heart Attack,Cardiac Catheterization,18000,58,Yes,Stable,2,66+,High,Long Stay
+880,25,Male,Allergic Reaction,Epinephrine Injection,100,59,No,Recovered,5,19-35,Low,Long Stay
+873,30,Female,Fractured Arm,X-Ray and Splint,500,59,No,Recovered,5,19-35,Low,Long Stay
+853,32,Female,Childbirth,Delivery and Postnatal Care,12000,59,No,Recovered,4,19-35,Medium,Long Stay
+803,45,Male,Fractured Leg,Cast and Physical Therapy,3000,59,No,Recovered,4,36-50,Low,Long Stay
+811,48,Female,Heart Disease,Angioplasty,15000,59,Yes,Recovered,4,36-50,High,Long Stay
+839,50,Male,Kidney Stones,Lithotripsy,6000,59,No,Recovered,3,36-50,Medium,Long Stay
+866,52,Female,Respiratory Infection,Antibiotics and Rest,800,59,No,Stable,4,51-65,Low,Long Stay
+740,53,Female,Cancer,Surgery and Chemotherapy,25000,59,Yes,Recovered,4,51-65,High,Long Stay
+762,58,Male,Prostate Cancer,Radiation Therapy,20000,59,No,Recovered,3,51-65,High,Long Stay
+802,60,Female,Appendicitis,Appendectomy,8000,59,Yes,Recovered,3,51-65,Medium,Long Stay
+825,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,59,No,Stable,4,51-65,Low,Long Stay
+842,65,Male,Diabetes,Insulin Therapy,2000,59,No,Stable,3,51-65,Low,Long Stay
+831,72,Male,Hypertension,Medication and Counseling,1000,59,No,Stable,4,66+,Low,Long Stay
+774,75,Female,Heart Attack,Cardiac Catheterization,18000,59,Yes,Stable,2,66+,High,Long Stay
+769,78,Male,Stroke,CT Scan and Medication,10000,59,No,Stable,2,66+,Medium,Long Stay
+895,28,Male,Allergic Reaction,Epinephrine Injection,100,60,No,Recovered,5,19-35,Low,Long Stay
+868,35,Female,Childbirth,Delivery and Postnatal Care,12000,60,No,Recovered,4,19-35,Medium,Long Stay
+888,35,Female,Fractured Arm,X-Ray and Splint,500,60,Yes,Recovered,5,19-35,Low,Long Stay
+818,40,Male,Fractured Leg,Cast and Physical Therapy,3000,60,No,Recovered,4,36-50,Low,Long Stay
+817,45,Female,Appendicitis,Appendectomy,8000,60,No,Recovered,3,36-50,Medium,Long Stay
+881,52,Female,Respiratory Infection,Antibiotics and Rest,800,60,No,Stable,4,51-65,Low,Long Stay
+755,55,Female,Cancer,Surgery and Chemotherapy,25000,60,No,Recovered,4,51-65,High,Long Stay
+826,55,Female,Heart Disease,Angioplasty,15000,60,Yes,Recovered,3,51-65,High,Long Stay
+854,55,Male,Kidney Stones,Lithotripsy,6000,60,No,Recovered,3,51-65,Medium,Long Stay
+840,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,60,No,Stable,4,51-65,Low,Long Stay
+857,62,Male,Diabetes,Insulin Therapy,2000,60,No,Stable,4,51-65,Low,Long Stay
+777,67,Male,Prostate Cancer,Radiation Therapy,20000,60,No,Recovered,3,66+,High,Long Stay
+846,68,Male,Hypertension,Medication and Counseling,1000,60,No,Stable,4,66+,Low,Long Stay
+789,78,Female,Heart Attack,Cardiac Catheterization,18000,60,Yes,Stable,2,66+,High,Long Stay
+910,25,Male,Allergic Reaction,Epinephrine Injection,100,61,No,Recovered,5,19-35,Low,Long Stay
+903,30,Female,Fractured Arm,X-Ray and Splint,500,61,No,Recovered,5,19-35,Low,Long Stay
+883,32,Female,Childbirth,Delivery and Postnatal Care,12000,61,No,Recovered,4,19-35,Medium,Long Stay
+833,45,Male,Fractured Leg,Cast and Physical Therapy,3000,61,No,Recovered,4,36-50,Low,Long Stay
+841,48,Female,Heart Disease,Angioplasty,15000,61,Yes,Recovered,4,36-50,High,Long Stay
+869,50,Male,Kidney Stones,Lithotripsy,6000,61,No,Recovered,3,36-50,Medium,Long Stay
+896,52,Female,Respiratory Infection,Antibiotics and Rest,800,61,No,Stable,4,51-65,Low,Long Stay
+770,53,Female,Cancer,Surgery and Chemotherapy,25000,61,Yes,Recovered,4,51-65,High,Long Stay
+792,58,Male,Prostate Cancer,Radiation Therapy,20000,61,No,Recovered,3,51-65,High,Long Stay
+832,60,Female,Appendicitis,Appendectomy,8000,61,Yes,Recovered,3,51-65,Medium,Long Stay
+855,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,61,No,Stable,4,51-65,Low,Long Stay
+872,65,Male,Diabetes,Insulin Therapy,2000,61,No,Stable,3,51-65,Low,Long Stay
+861,72,Male,Hypertension,Medication and Counseling,1000,61,No,Stable,4,66+,Low,Long Stay
+804,75,Female,Heart Attack,Cardiac Catheterization,18000,61,Yes,Stable,2,66+,High,Long Stay
+799,78,Male,Stroke,CT Scan and Medication,10000,61,No,Stable,2,66+,Medium,Long Stay
+925,28,Male,Allergic Reaction,Epinephrine Injection,100,62,No,Recovered,5,19-35,Low,Long Stay
+898,35,Female,Childbirth,Delivery and Postnatal Care,12000,62,No,Recovered,4,19-35,Medium,Long Stay
+918,35,Female,Fractured Arm,X-Ray and Splint,500,62,Yes,Recovered,5,19-35,Low,Long Stay
+848,40,Male,Fractured Leg,Cast and Physical Therapy,3000,62,No,Recovered,4,36-50,Low,Long Stay
+847,45,Female,Appendicitis,Appendectomy,8000,62,No,Recovered,3,36-50,Medium,Long Stay
+911,52,Female,Respiratory Infection,Antibiotics and Rest,800,62,No,Stable,4,51-65,Low,Long Stay
+785,55,Female,Cancer,Surgery and Chemotherapy,25000,62,No,Recovered,4,51-65,High,Long Stay
+856,55,Female,Heart Disease,Angioplasty,15000,62,Yes,Recovered,3,51-65,High,Long Stay
+884,55,Male,Kidney Stones,Lithotripsy,6000,62,No,Recovered,3,51-65,Medium,Long Stay
+870,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,62,No,Stable,4,51-65,Low,Long Stay
+887,62,Male,Diabetes,Insulin Therapy,2000,62,No,Stable,4,51-65,Low,Long Stay
+807,67,Male,Prostate Cancer,Radiation Therapy,20000,62,No,Recovered,3,66+,High,Long Stay
+876,68,Male,Hypertension,Medication and Counseling,1000,62,No,Stable,4,66+,Low,Long Stay
+814,70,Male,Stroke,CT Scan and Medication,10000,62,Yes,Stable,2,66+,Medium,Long Stay
+819,78,Female,Heart Attack,Cardiac Catheterization,18000,62,Yes,Stable,2,66+,High,Long Stay
+940,25,Male,Allergic Reaction,Epinephrine Injection,100,63,No,Recovered,5,19-35,Low,Long Stay
+933,30,Female,Fractured Arm,X-Ray and Splint,500,63,No,Recovered,5,19-35,Low,Long Stay
+913,32,Female,Childbirth,Delivery and Postnatal Care,12000,63,No,Recovered,4,19-35,Medium,Long Stay
+863,45,Male,Fractured Leg,Cast and Physical Therapy,3000,63,No,Recovered,4,36-50,Low,Long Stay
+871,48,Female,Heart Disease,Angioplasty,15000,63,Yes,Recovered,4,36-50,High,Long Stay
+899,50,Male,Kidney Stones,Lithotripsy,6000,63,No,Recovered,3,36-50,Medium,Long Stay
+926,52,Female,Respiratory Infection,Antibiotics and Rest,800,63,No,Stable,4,51-65,Low,Long Stay
+800,53,Female,Cancer,Surgery and Chemotherapy,25000,63,Yes,Recovered,4,51-65,High,Long Stay
+822,58,Male,Prostate Cancer,Radiation Therapy,20000,63,No,Recovered,3,51-65,High,Long Stay
+862,60,Female,Appendicitis,Appendectomy,8000,63,Yes,Recovered,3,51-65,Medium,Long Stay
+885,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,63,No,Stable,4,51-65,Low,Long Stay
+902,65,Male,Diabetes,Insulin Therapy,2000,63,No,Stable,3,51-65,Low,Long Stay
+891,72,Male,Hypertension,Medication and Counseling,1000,63,No,Stable,4,66+,Low,Long Stay
+834,75,Female,Heart Attack,Cardiac Catheterization,18000,63,Yes,Stable,2,66+,High,Long Stay
+829,78,Male,Stroke,CT Scan and Medication,10000,63,No,Stable,2,66+,Medium,Long Stay
+955,28,Male,Allergic Reaction,Epinephrine Injection,100,64,No,Recovered,5,19-35,Low,Long Stay
+928,35,Female,Childbirth,Delivery and Postnatal Care,12000,64,No,Recovered,4,19-35,Medium,Long Stay
+948,35,Female,Fractured Arm,X-Ray and Splint,500,64,Yes,Recovered,5,19-35,Low,Long Stay
+878,40,Male,Fractured Leg,Cast and Physical Therapy,3000,64,No,Recovered,4,36-50,Low,Long Stay
+877,45,Female,Appendicitis,Appendectomy,8000,64,No,Recovered,3,36-50,Medium,Long Stay
+941,52,Female,Respiratory Infection,Antibiotics and Rest,800,64,No,Stable,4,51-65,Low,Long Stay
+815,55,Female,Cancer,Surgery and Chemotherapy,25000,64,No,Recovered,4,51-65,High,Long Stay
+886,55,Female,Heart Disease,Angioplasty,15000,64,Yes,Recovered,3,51-65,High,Long Stay
+914,55,Male,Kidney Stones,Lithotripsy,6000,64,No,Recovered,3,51-65,Medium,Long Stay
+900,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,64,No,Stable,4,51-65,Low,Long Stay
+917,62,Male,Diabetes,Insulin Therapy,2000,64,No,Stable,4,51-65,Low,Long Stay
+837,67,Male,Prostate Cancer,Radiation Therapy,20000,64,No,Recovered,3,66+,High,Long Stay
+844,70,Male,Stroke,CT Scan and Medication,10000,64,Yes,Stable,2,66+,Medium,Long Stay
+849,78,Female,Heart Attack,Cardiac Catheterization,18000,64,Yes,Stable,2,66+,High,Long Stay
+970,25,Male,Allergic Reaction,Epinephrine Injection,100,65,No,Recovered,5,19-35,Low,Long Stay
+963,30,Female,Fractured Arm,X-Ray and Splint,500,65,No,Recovered,5,19-35,Low,Long Stay
+943,32,Female,Childbirth,Delivery and Postnatal Care,12000,65,No,Recovered,4,19-35,Medium,Long Stay
+893,45,Male,Fractured Leg,Cast and Physical Therapy,3000,65,No,Recovered,4,36-50,Low,Long Stay
+901,48,Female,Heart Disease,Angioplasty,15000,65,Yes,Recovered,4,36-50,High,Long Stay
+929,50,Male,Kidney Stones,Lithotripsy,6000,65,No,Recovered,3,36-50,Medium,Long Stay
+956,52,Female,Respiratory Infection,Antibiotics and Rest,800,65,No,Stable,4,51-65,Low,Long Stay
+830,53,Female,Cancer,Surgery and Chemotherapy,25000,65,Yes,Recovered,4,51-65,High,Long Stay
+852,58,Male,Prostate Cancer,Radiation Therapy,20000,65,No,Recovered,3,51-65,High,Long Stay
+892,60,Female,Appendicitis,Appendectomy,8000,65,Yes,Recovered,3,51-65,Medium,Long Stay
+915,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,65,No,Stable,4,51-65,Low,Long Stay
+932,65,Male,Diabetes,Insulin Therapy,2000,65,No,Stable,3,51-65,Low,Long Stay
+921,72,Male,Hypertension,Medication and Counseling,1000,65,No,Stable,4,66+,Low,Long Stay
+864,75,Female,Heart Attack,Cardiac Catheterization,18000,65,Yes,Stable,2,66+,High,Long Stay
+859,78,Male,Stroke,CT Scan and Medication,10000,65,No,Stable,2,66+,Medium,Long Stay
+958,35,Female,Childbirth,Delivery and Postnatal Care,12000,66,No,Recovered,4,19-35,Medium,Long Stay
+978,35,Female,Fractured Arm,X-Ray and Splint,500,66,Yes,Recovered,5,19-35,Low,Long Stay
+908,40,Male,Fractured Leg,Cast and Physical Therapy,3000,66,No,Recovered,4,36-50,Low,Long Stay
+907,45,Female,Appendicitis,Appendectomy,8000,66,No,Recovered,3,36-50,Medium,Long Stay
+971,52,Female,Respiratory Infection,Antibiotics and Rest,800,66,No,Stable,4,51-65,Low,Long Stay
+916,55,Female,Heart Disease,Angioplasty,15000,66,Yes,Recovered,3,51-65,High,Long Stay
+944,55,Male,Kidney Stones,Lithotripsy,6000,66,No,Recovered,3,51-65,Medium,Long Stay
+930,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,66,No,Stable,4,51-65,Low,Long Stay
+947,62,Male,Diabetes,Insulin Therapy,2000,66,No,Stable,4,51-65,Low,Long Stay
+867,67,Male,Prostate Cancer,Radiation Therapy,20000,66,No,Recovered,3,66+,High,Long Stay
+936,68,Male,Hypertension,Medication and Counseling,1000,66,No,Stable,4,66+,Low,Long Stay
+874,70,Male,Stroke,CT Scan and Medication,10000,66,Yes,Stable,2,66+,Medium,Long Stay
+879,78,Female,Heart Attack,Cardiac Catheterization,18000,66,Yes,Stable,2,66+,High,Long Stay
+985,28,Male,Allergic Reaction,Epinephrine Injection,100,67,No,Recovered,5,19-35,Low,Long Stay
+993,30,Female,Fractured Arm,X-Ray and Splint,500,67,No,Recovered,5,19-35,Low,Long Stay
+973,32,Female,Childbirth,Delivery and Postnatal Care,12000,67,No,Recovered,4,19-35,Medium,Long Stay
+923,45,Male,Fractured Leg,Cast and Physical Therapy,3000,67,No,Recovered,4,36-50,Low,Long Stay
+931,48,Female,Heart Disease,Angioplasty,15000,67,Yes,Recovered,4,36-50,High,Long Stay
+959,50,Male,Kidney Stones,Lithotripsy,6000,67,No,Recovered,3,36-50,Medium,Long Stay
+860,53,Female,Cancer,Surgery and Chemotherapy,25000,67,Yes,Recovered,4,51-65,High,Long Stay
+882,58,Male,Prostate Cancer,Radiation Therapy,20000,67,No,Recovered,3,51-65,High,Long Stay
+922,60,Female,Appendicitis,Appendectomy,8000,67,Yes,Recovered,3,51-65,Medium,Long Stay
+945,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,67,No,Stable,4,51-65,Low,Long Stay
+962,65,Male,Diabetes,Insulin Therapy,2000,67,No,Stable,3,51-65,Low,Long Stay
+951,72,Male,Hypertension,Medication and Counseling,1000,67,No,Stable,4,66+,Low,Long Stay
+894,75,Female,Heart Attack,Cardiac Catheterization,18000,67,Yes,Stable,2,66+,High,Long Stay
+889,78,Male,Stroke,CT Scan and Medication,10000,67,No,Stable,2,66+,Medium,Long Stay
+1000,25,Male,Allergic Reaction,Epinephrine Injection,100,68,No,Recovered,5,19-35,Low,Long Stay
+988,35,Female,Childbirth,Delivery and Postnatal Care,12000,68,No,Recovered,4,19-35,Medium,Long Stay
+938,40,Male,Fractured Leg,Cast and Physical Therapy,3000,68,No,Recovered,4,36-50,Low,Long Stay
+937,45,Female,Appendicitis,Appendectomy,8000,68,No,Recovered,3,36-50,Medium,Long Stay
+986,52,Female,Respiratory Infection,Antibiotics and Rest,800,68,No,Stable,4,51-65,Low,Long Stay
+875,55,Female,Cancer,Surgery and Chemotherapy,25000,68,No,Recovered,4,51-65,High,Long Stay
+946,55,Female,Heart Disease,Angioplasty,15000,68,Yes,Recovered,3,51-65,High,Long Stay
+974,55,Male,Kidney Stones,Lithotripsy,6000,68,No,Recovered,3,51-65,Medium,Long Stay
+960,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,68,No,Stable,4,51-65,Low,Long Stay
+977,62,Male,Diabetes,Insulin Therapy,2000,68,No,Stable,4,51-65,Low,Long Stay
+897,67,Male,Prostate Cancer,Radiation Therapy,20000,68,No,Recovered,3,66+,High,Long Stay
+966,68,Male,Hypertension,Medication and Counseling,1000,68,No,Stable,4,66+,Low,Long Stay
+904,70,Male,Stroke,CT Scan and Medication,10000,68,Yes,Stable,2,66+,Medium,Long Stay
+909,78,Female,Heart Attack,Cardiac Catheterization,18000,68,Yes,Stable,2,66+,High,Long Stay
+953,45,Male,Fractured Leg,Cast and Physical Therapy,3000,69,No,Recovered,4,36-50,Low,Long Stay
+961,48,Female,Heart Disease,Angioplasty,15000,69,Yes,Recovered,4,36-50,High,Long Stay
+989,50,Male,Kidney Stones,Lithotripsy,6000,69,No,Recovered,3,36-50,Medium,Long Stay
+890,53,Female,Cancer,Surgery and Chemotherapy,25000,69,Yes,Recovered,4,51-65,High,Long Stay
+912,58,Male,Prostate Cancer,Radiation Therapy,20000,69,No,Recovered,3,51-65,High,Long Stay
+952,60,Female,Appendicitis,Appendectomy,8000,69,Yes,Recovered,3,51-65,Medium,Long Stay
+975,65,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,69,No,Stable,4,51-65,Low,Long Stay
+992,65,Male,Diabetes,Insulin Therapy,2000,69,No,Stable,3,51-65,Low,Long Stay
+981,72,Male,Hypertension,Medication and Counseling,1000,69,No,Stable,4,66+,Low,Long Stay
+924,75,Female,Heart Attack,Cardiac Catheterization,18000,69,Yes,Stable,2,66+,High,Long Stay
+919,78,Male,Stroke,CT Scan and Medication,10000,69,No,Stable,2,66+,Medium,Long Stay
+968,40,Male,Fractured Leg,Cast and Physical Therapy,3000,70,No,Recovered,4,36-50,Low,Long Stay
+905,55,Female,Cancer,Surgery and Chemotherapy,25000,70,No,Recovered,4,51-65,High,Long Stay
+976,55,Female,Heart Disease,Angioplasty,15000,70,Yes,Recovered,3,51-65,High,Long Stay
+990,60,Female,Osteoarthritis,Physical Therapy and Pain Management,4000,70,No,Stable,4,51-65,Low,Long Stay
+927,67,Male,Prostate Cancer,Radiation Therapy,20000,70,No,Recovered,3,66+,High,Long Stay
+996,68,Male,Hypertension,Medication and Counseling,1000,70,No,Stable,4,66+,Low,Long Stay
+934,70,Male,Stroke,CT Scan and Medication,10000,70,Yes,Stable,2,66+,Medium,Long Stay
+939,78,Female,Heart Attack,Cardiac Catheterization,18000,70,Yes,Stable,2,66+,High,Long Stay
+983,45,Male,Fractured Leg,Cast and Physical Therapy,3000,71,No,Recovered,4,36-50,Low,Long Stay
+991,48,Female,Heart Disease,Angioplasty,15000,71,Yes,Recovered,4,36-50,High,Long Stay
+920,53,Female,Cancer,Surgery and Chemotherapy,25000,71,Yes,Recovered,4,51-65,High,Long Stay
+942,58,Male,Prostate Cancer,Radiation Therapy,20000,71,No,Recovered,3,51-65,High,Long Stay
+982,60,Female,Appendicitis,Appendectomy,8000,71,Yes,Recovered,3,51-65,Medium,Long Stay
+954,75,Female,Heart Attack,Cardiac Catheterization,18000,71,Yes,Stable,2,66+,High,Long Stay
+949,78,Male,Stroke,CT Scan and Medication,10000,71,No,Stable,2,66+,Medium,Long Stay
+998,40,Male,Fractured Leg,Cast and Physical Therapy,3000,72,No,Recovered,4,36-50,Low,Long Stay
+997,45,Female,Appendicitis,Appendectomy,8000,72,No,Recovered,3,36-50,Medium,Long Stay
+935,55,Female,Cancer,Surgery and Chemotherapy,25000,72,No,Recovered,4,51-65,High,Long Stay
+957,67,Male,Prostate Cancer,Radiation Therapy,20000,72,No,Recovered,3,66+,High,Long Stay
+964,70,Male,Stroke,CT Scan and Medication,10000,72,Yes,Stable,2,66+,Medium,Long Stay
+969,78,Female,Heart Attack,Cardiac Catheterization,18000,72,Yes,Stable,2,66+,High,Long Stay
+950,53,Female,Cancer,Surgery and Chemotherapy,25000,73,Yes,Recovered,4,51-65,High,Long Stay
+972,58,Male,Prostate Cancer,Radiation Therapy,20000,73,No,Recovered,3,51-65,High,Long Stay
+984,75,Female,Heart Attack,Cardiac Catheterization,18000,73,Yes,Stable,2,66+,High,Long Stay
+979,78,Male,Stroke,CT Scan and Medication,10000,73,No,Stable,2,66+,Medium,Long Stay
+965,55,Female,Cancer,Surgery and Chemotherapy,25000,74,No,Recovered,4,51-65,High,Long Stay
+987,67,Male,Prostate Cancer,Radiation Therapy,20000,74,No,Recovered,3,66+,High,Long Stay
+994,70,Male,Stroke,CT Scan and Medication,10000,74,Yes,Stable,2,66+,Medium,Long Stay
+999,78,Female,Heart Attack,Cardiac Catheterization,18000,74,Yes,Stable,2,66+,High,Long Stay
+980,53,Female,Cancer,Surgery and Chemotherapy,25000,75,Yes,Recovered,4,51-65,High,Long Stay
+995,55,Female,Cancer,Surgery and Chemotherapy,25000,76,No,Recovered,4,51-65,High,Long Stay
