@@ -20,16 +20,7 @@ Records: 984 hospital patient records
 Data Format: CSV (cleaned and converted to Excel for analysis)
 
 **The dataset contains information such as:**
-Patient ID
-Age
-Gender
-Medical Condition
-Procedure
-Length of Stay
-Treatment Cost
-Patient Satisfaction
-Readmission Status
-Outcome
+Patient ID|Age|Gender|Medical Condition|Procedure|Length of Stay|Treatment Cost|Patient Satisfaction|Readmission Status|Outcome|
 
 **Tools & Technologies**
 Microsoft Excel
