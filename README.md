@@ -1,7 +1,7 @@
 # hospital-patient-analysis
 End-to-end Hospital Patient Data Analysis using Excel, SQL Server, and Tableau.
 
-**Project Overview**
+**Project Overview:**
 This project is an end-to-end data analysis case study focused on hospital patient data. The objective was to analyze patient demographics, treatment costs, medical conditions, readmission rates, and patient satisfaction to uncover meaningful insights that could support healthcare decision-making.
 The project demonstrates the complete data analysis workflow, from data cleaning and preparation to database analysis and interactive dashboard development.
 
@@ -30,6 +30,7 @@ Treatment Cost
 Patient Satisfaction
 Readmission Status
 Outcome
+
 **Tools & Technologies**
 Microsoft Excel
 Microsoft SQL Server Management Studio (SSMS)
@@ -45,6 +46,7 @@ Age Group
 Cost Category
 Stay Category
 Performed descriptive statistics
+
 **2.Exploratory Data Analysis (Excel)**
 Calculated key performance indicators (KPIs), including:
 Total Patients
@@ -53,6 +55,7 @@ Average Treatment Cost
 Readmission Rate
 Average Patient Satisfaction
 Created PivotTables and charts to identify trends and patterns.
+
 **3. SQL Analysis**
 Imported the cleaned dataset into SQL Server and wrote SQL queries to answer business questions using:
 SELECT
@@ -65,12 +68,14 @@ AVG()
 MIN()
 MAX()
 Subqueries
+
 **Business questions included:**
 Which medical conditions generated the highest treatment costs?
 Which procedures were the most expensive?
 Which conditions had the highest readmission rates?
 What is the average patient satisfaction by outcome?
 Which patients incurred above-average treatment costs?
+
 **4.Tableau Dashboard**
 **Designed an interactive dashboard featuring:**
 Total Patients KPI
@@ -107,6 +112,10 @@ Building a Power BI version of the dashboard.
 Adding predictive analytics to estimate readmission risk.
 Creating additional SQL views and stored procedures.
 Automating data import using SQL Server Integration Services (SSIS).
+
+**Interactive Dashboard**
+**View the interactive Tableau dashboard here:**
+[Tableau Public Dashboard](https://public.tableau.com/shared/59K2NTPQJ?:display_count=n&:origin=viz_share_link)
 
 **Author:**
 Naled iKarabo Tiro
